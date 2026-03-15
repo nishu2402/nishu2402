@@ -1,5 +1,5 @@
 
-# 🟢 Nisarg K. Chasmawala
+# 👾 Nisarg K. Chasmawala
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/BOT-On-Your-Computer/matrix/main/matrix.gif" alt="Hacker Matrix Rain" style="width:100%;max-width:900px;border-radius:15px;box-shadow:0 0 30px #00ff41;filter: drop-shadow(0 0 10px #00ff41);"/>
@@ -52,35 +52,33 @@ I work on identifying vulnerabilities in systems, networks, and applications and
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker" style="filter: drop-shadow(0 0 10px #00ff41);" />
 </p>
 
-### Offensive Security Tools
+### 🔴 Red Team Arsenal
+<p align="center">
+<img src="https://img.shields.io/badge/Nmap-Scanner-00ff41?style=for-the-badge&logo=nmap&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/Metasploit-Exploitation-00ff41?style=for-the-badge&logo=metasploit&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/Burp%20Suite-Web-00ff41?style=for-the-badge&logo=burpsuite&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/SQLMap-SQLi-00ff41?style=for-the-badge&logo=database&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+</p>
 
-- Nmap
-- Metasploit
-- Burp Suite
-- SQLmap
-- Hydra
-- John the Ripper
-- Aircrack-ng
+### 🟢 Blue Team Defense
+<p align="center">
+<img src="https://img.shields.io/badge/Wireshark-PCAP-00ff41?style=for-the-badge&logo=wireshark&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/Nessus-Scanner-00ff41?style=for-the-badge&logo=nessus&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/OpenVAS-VulnScan-00ff41?style=for-the-badge&logo=openvas&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/Snort-IDS-00ff41?style=for-the-badge&logo=snort&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+</p>
 
-### Security Analysis
-
-- Wireshark
-- Nessus
-- OpenVAS
-- Snort
-
-### Reverse Engineering & OSINT
-
-- Ghidra
-- Maltego
-- OSINT Framework
-
-### Digital Forensics
-
-- Autopsy
-- FTK Imager
+### 🟣 Purple Team Intel
+<p align="center">
+<img src="https://img.shields.io/badge/Ghidra-REVENG-00ff41?style=for-the-badge&logo=ghidra&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/Maltego-OSINT-00ff41?style=for-the-badge&logo=maltego&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/John-Hashing-00ff41?style=for-the-badge&logo=lock&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+<img src="https://img.shields.io/badge/Autopsy-Forensics-00ff41?style=for-the-badge&logo=hard-drive&logoColor=black" style="filter: drop-shadow(0 0 10px #00ff41);margin:5px;" />
+</p>
 
 ---
+
+**Pro methodology: Red | Blue | Purple Team**
 
 # 🔬 Cybersecurity Research Projects
 
