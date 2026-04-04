@@ -384,17 +384,11 @@ class MissionBriefing:
 
 ## `[ 13 ]` — **CONTRIBUTION SNAKE** 🐍
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishu2402/nishu2402/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishu2402/nishu2402/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nishu2402/nishu2402/output/github-snake-dark.svg" />
-</picture>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="box-shadow:0 0 20px #00ff41; border-radius:8px;" />
+</p>
 
-> **To activate the snake:** add the `.github/workflows/snake.yml` file (provided alongside this README) to your `nishu2402/nishu2402` profile repository, then run the Action manually once to generate the first output. It will auto-refresh every 12 hours.
-
-</div>
 
 ---
 
