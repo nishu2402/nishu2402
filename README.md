@@ -82,64 +82,7 @@
 
 ---
 
-## `[ 02 ]` 📊 **THREAT STATS: LIVE DASHBOARD**
-
-<div align="center">
-
-<!-- ROW 1: Core Stats + Streak -->
-<table>
-<tr>
-<td width="55%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nishu2402&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&icon_color=00ff41&count_private=true&include_all_commits=true&rank_icon=github" />
-</td>
-<td width="45%">
-<img width="100%" src="https://streak-stats.demolab.com/?user=nishu2402&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=00CC33&currStreakLabel=00FF41&sideLabels=00CC33&dates=888888" />
-</td>
-</tr>
-</table>
-
-<!-- ROW 2: Profile Timeline (Full Width) -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishu2402&theme=github_dark" />
-
-<!-- ROW 3: Language Breakdown (2-up) -->
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishu2402&theme=github_dark" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishu2402&theme=github_dark" />
-</td>
-</tr>
-</table>
-
-<!-- ROW 4: Stats Summary + Productive Time -->
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishu2402&theme=github_dark" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishu2402&theme=github_dark&utcOffset=0" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `[ 03 ]` 🏆 **TROPHY VAULT**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishu2402&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
-## `[ 04 ]` ⚔️ **ATTACK SURFACE: SKILLS MATRIX**
+## `[ 02 ]` ⚔️ **ATTACK SURFACE: SKILLS MATRIX**
 
 <div align="center">
 
@@ -177,7 +120,7 @@
 
 ---
 
-## `[ 05 ]` 🚀 **REAL-WORLD PROJECTS: ZERO-DAY TO DEPLOY**
+## `[ 03 ]` 🚀 **REAL-WORLD PROJECTS: ZERO-DAY TO DEPLOY**
 
 ---
 
@@ -269,7 +212,7 @@ Designed an adaptive ML framework transitioning vulnerability assessments from s
 
 ---
 
-## `[ 06 ]` 🏅 **CERTIFICATIONS: BATTLE RIBBONS**
+## `[ 04 ]` 🏅 **CERTIFICATIONS: BATTLE RIBBONS**
 
 <div align="center">
 
@@ -294,7 +237,7 @@ Designed an adaptive ML framework transitioning vulnerability assessments from s
 
 ---
 
-## `[ 07 ]` 💼 **FIELD OPERATIONS: EXPERIENCE LOG**
+## `[ 05 ]` 💼 **FIELD OPERATIONS: EXPERIENCE LOG**
 
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
@@ -331,7 +274,7 @@ Designed an adaptive ML framework transitioning vulnerability assessments from s
 
 ---
 
-## `[ 08 ]` 🎓 **MSc MISSIONS: ACADEMIC PROJECTS — BCU**
+## `[ 06 ]` 🎓 **MSc MISSIONS: ACADEMIC PROJECTS — BCU**
 
 <details>
 <summary><b>🔴 [CLASSIFIED-10] Consolidated Pentesting & RCE Assessment</b></summary>
@@ -378,7 +321,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 09 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
+## `[ 07 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
 
 <div align="center">
 
@@ -396,7 +339,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 10 ]` 🎓 **EDUCATION: TRAINING GROUND**
+## `[ 08 ]` 🎓 **EDUCATION: TRAINING GROUND**
 
 <div align="center">
 
@@ -411,7 +354,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 11 ]` 🌍 **SYSTEM LANGUAGES**
+## `[ 09 ]` 🌍 **SYSTEM LANGUAGES**
 
 <div align="center">
 
@@ -425,7 +368,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 12 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
+## `[ 10 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
 
 ```python
 #!/usr/bin/env python3
@@ -463,7 +406,7 @@ class NisargChasmawala_MissionPlan:
 
 ---
 
-## `[ 13 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
+## `[ 11 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
 
 <div align="center">
 
@@ -473,7 +416,7 @@ class NisargChasmawala_MissionPlan:
 
 ---
 
-## `[ 14 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
+## `[ 12 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
 
 <div align="center">
 
