@@ -217,7 +217,7 @@ Designed an adaptive ML framework transitioning vulnerability assessments from s
 <div align="center">
 
 | 🏅 | Certification | Issuer | Date | Score / Credential |
-|:--:|:---|:---|:---:|:---|
+|:--:|:---|:--|:---:|:---|
 | ☠️ | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
 | ☠️ | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
 | ☠️ | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
