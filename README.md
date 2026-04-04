@@ -1,332 +1,402 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:003300,100:00ff41&height=280&section=header&text=NISARG%20CHASMAWALA&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=%3E%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher&descAlignY=62&descSize=15&descColor=00cc33&stroke=00ff41&strokeWidth=1" />
+<!-- ═══════════════════════════════════════════════════ -->
+<!--          ELITE HACKER PROFILE — NISARG CHASMAWALA  -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=300&section=header&text=NISARG%20CHASMAWALA&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%5B%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher%20%5D&descAlignY=60&descSize=14&descColor=00cc33" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=900&lines=%5B+SYSTEM+INITIALISED+%5D+Loading+profile+of+Elite+Offensive+Security+Engineer...;%E2%98%A0+CPENT+%7C+CEH+Master+%7C+CHFI+%7C+ISO+27001+Lead+Auditor;%F0%9F%A7%A0+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%F0%9F%94%B4+AI-Powered+DDoS+Detection+%E2%80%94+99.99%25+Accuracy+%7C+1.0000+Precision;%F0%9F%9F%A3+Android+Malware+ML+Engine+%E2%80%94+98.47%25+F1-Score;%F0%9F%94%B5+Cloud+IAM+Risk+Intelligence+%7C+MITRE+ATT%26CK+Integrated;%F0%9F%9F%A2+Securing+Enterprise+Systems+%7C+Digital+Forensics+Expert;root%40kali%3A%7E%23+_" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/nisarg-chasmawala"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:nisargkc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/nishu2402"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=00ff41"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=nishu2402&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=00ff41&style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8C%8D_Location-England%2C_UK-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<!-- ─────────── TYPING ANIMATION ─────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CPENT-Certified-00ff41?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/CEH_Master-EC--Council-00ff41?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/CHFI-90.7%25-00ff41?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-00ff41?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/CEH_v13-EC--Council-00ff41?style=flat-square&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/EHE-96%25-00ff41?style=flat-square&labelColor=0d1117"/>
+<!-- ─────────── SOCIAL BADGES ─────────── -->
+<a href="https://www.linkedin.com/in/nisarg-chasmawala">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:nisargkc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/nishu2402">
+  <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nishu2402&label=PROFILE+HITS&color=00ff41&style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- ─────────── CERT BADGES ─────────── -->
+<img src="https://img.shields.io/badge/%E2%98%A0_CPENT-Certified-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_CEH_Master-EC--Council-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_CHFI-90.7%25-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_ISO_27001-Lead_Auditor-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_CEH_v13-EC--Council-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_EHE-96%25-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_CRTOM-Red_Team_Leaders-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/%E2%98%A0_CTIGA-Red_Team_Leaders-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
 
 </div>
 
 ---
 
-## `[ 01 ]` — **TERMINAL: WHOAMI**
+## `[ 01 ]` ☠ **SYSTEM PROFILE: WHOAMI**
 
 ```bash
-┌──(nisarg㉿offensive-sec)-[~]
-└─$ cat /etc/profile/nisarg_chasmawala.conf
+┌──(nisarg㉿kali-offensive)-[~]
+└─$ sudo cat /root/.profile
 
- ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗
- ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝
- ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗
- ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║
- ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝
- ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗                        ║
+║    ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝                        ║
+║    ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗                       ║
+║    ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║                       ║
+║    ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝                       ║
+║    ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                       ║
+║                                                                          ║
+║  >> IDENTITY  :  Nisarg Chasmawala                                       ║
+║  >> ROLE      :  Offensive Security Engineer | Penetration Tester        ║
+║  >> LOCATION  :  England, United Kingdom                                 ║
+║  >> EDUCATION :  MSc Cyber Security — Birmingham City University         ║
+║                  (Expected Graduation: 2027)                             ║
+║                                                                          ║
+║  >> CERTS     :  CPENT | CEH Master | CHFI | ISO 27001 Lead Auditor      ║
+║                  CEH v13 | EHE (96%) | CRTOM | CTIGA | CCEP              ║
+║                                                                          ║
+║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego              ║
+║                  Wireshark · Autopsy · FTK Imager · MITRE ATT&CK         ║
+║                  TensorFlow · XGBoost · NetworkX · AWS IAM               ║
+║                                                                          ║
+║  >> ML WINS   :  DDoS Detection  — 99.99% Accuracy | 1.0000 Precision    ║
+║                  Malware Engine  — 98.47% F1-Score | Near-Perfect AUC    ║
+║                                                                          ║
+║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
+║                  Shape international cyberspace policy.                  ║
+║                  Build a safer digital world — one exploit at a time.    ║
+║                                                                          ║
+║  [STATUS]  ████████████████████████████████  ACTIVE — ALWAYS HUNTING     ║
+╚══════════════════════════════════════════════════════════════════════════╝
 
-  NAME        :  Nisarg Chasmawala
-  TITLE       :  Offensive Security Engineer | Penetration Tester
-  LOCATION    :  England, United Kingdom
-  EDUCATION   :  MSc Cyber Security — Birmingham City University (Exp. 2027)
-  CLEARANCE   :  CPENT | CEH Master | CHFI | ISO 27001 Lead Auditor | CEH v13
-
-  SPECIALTIES :  >> Vulnerability Assessment & Exploitation
-                 >> AI-Powered Threat Detection & ML Security
-                 >> Cloud IAM Risk Intelligence (AWS)
-                 >> Digital Forensics & Incident Response
-                 >> Red Team Operations & Autonomous Pen Testing
-
-  MISSION     :  "Uncover vulnerabilities. Secure systems.
-                  Build a safer digital world — one exploit at a time."
-
-  STATUS      :  [ ##############################] ACTIVE — ALWAYS HUNTING
-
-┌──(nisarg㉿offensive-sec)-[~]
-└─$ _
+[nisarg@offensive-sec ~]$ _
 ```
 
 ---
 
-## `[ 02 ]` — **THREAT STATS: LIVE DASHBOARD**
+## `[ 02 ]` 📊 **THREAT STATS: LIVE DASHBOARD**
 
 <div align="center">
 
+<!-- ROW 1: Core Stats + Streak -->
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nishu2402&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&icon_color=00ff41&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Nisarg%27s+Combat+Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishu2402&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff4444&currStreakNum=00ff41&sideNums=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=555555" />
-    </td>
-  </tr>
+<tr>
+<td width="55%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nishu2402&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&icon_color=00ff41&count_private=true&include_all_commits=true&rank_icon=github" />
+</td>
+<td width="45%">
+<img width="100%" src="https://streak-stats.demolab.com/?user=nishu2402&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=00CC33&currStreakLabel=00FF41&sideLabels=00CC33&dates=888888" />
+</td>
+</tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishu2402&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&langs_count=8&custom_title=Weapon+of+Choice+%28Languages%29" />
+<!-- ROW 2: Profile Timeline (Full Width) -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishu2402&theme=github_dark" />
+
+<!-- ROW 3: Language Breakdown (2-up) -->
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishu2402&theme=github_dark" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishu2402&theme=github_dark" />
+</td>
+</tr>
+</table>
+
+<!-- ROW 4: Stats Summary + Productive Time -->
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishu2402&theme=github_dark" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishu2402&theme=github_dark&utcOffset=0" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `[ 03 ]` — **TROPHY VAULT**
+## `[ 03 ]` 🏆 **TROPHY VAULT**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nishu2402&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=nishu2402&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
 ---
 
-## `[ 04 ]` — **ATTACK SURFACE: SKILLS MATRIX**
+## `[ 04 ]` ⚔️ **ATTACK SURFACE: SKILLS MATRIX**
 
 <div align="center">
 
-### 🔴 PRIMARY TOOLS — Languages & Core
+**— CORE LANGUAGES & PLATFORMS —**
+
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws&theme=dark&perline=7" />
 
-### 🟠 AI / MACHINE LEARNING ARSENAL
+**— AI & MACHINE LEARNING ARSENAL —**
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab&theme=dark&perline=7" />
 
-### 🟡 OPERATING SYSTEMS
+**— OPERATING SYSTEMS —**
+
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,apple&theme=dark&perline=7" />
 
 </div>
 
-### 🟢 SECURITY & PENTESTING TOOLS MATRIX
+<br/>
+
+**— CYBERSECURITY TOOLS MATRIX —**
 
 <div align="center">
 
-| ⚔️ Exploitation | 🔍 Recon & OSINT | 🧪 Digital Forensics | ☁️ Cloud & Vuln Mgmt |
+| ⚔️ Exploitation | 🔍 Recon & OSINT | 🧪 Digital Forensics | ☁️ Vuln Management |
 |:---|:---|:---|:---|
-| `Metasploit` — Advanced | `Nmap / Netcat` — Advanced | `Autopsy` — Advanced | `Nessus` — Advanced |
-| `Burp Suite` — Advanced | `OSINT Framework` — Advanced | `FTK Imager` — Advanced | `OpenVAS` — Advanced |
-| `SQLmap` — Advanced | `Maltego` — Advanced | `Magnet AXIOM` — Advanced | `AWS IAM` — Advanced |
-| `Hydra` — Advanced | `Wireshark` — Advanced | `Magnet DVR Examiner` — Advanced | `NetworkX` — Advanced |
-| `John the Ripper` — Advanced | `Shodan` — Advanced | `MOBILeadit` — Advanced | `MITRE ATT&CK` — Advanced |
-| `Aircrack-ng` — Advanced | `Snort` — Very Good | `Passware Kit` — Advanced | `CVSS Framework` — Advanced |
-| `Ghidra (RE)` — Very Good | `Nikto / Acunetix` — Advanced | `Volatility` — Advanced | `ISO 27001 Audit` — Certified |
+| `Metasploit` Advanced | `Nmap / Netcat` Advanced | `Autopsy` Advanced | `Nessus` Advanced |
+| `Burp Suite` Advanced | `OSINT Framework` Advanced | `FTK Imager` Advanced | `OpenVAS` Advanced |
+| `SQLmap` Advanced | `Maltego` Advanced | `Magnet AXIOM` Advanced | `AWS IAM` Advanced |
+| `Hydra` Advanced | `Wireshark` Advanced | `Magnet DVR Examiner` Advanced | `MITRE ATT&CK` Advanced |
+| `John the Ripper` Advanced | `Shodan` Advanced | `MOBILeadit` Advanced | `NetworkX` Advanced |
+| `Aircrack-ng` Advanced | `Nikto / Acunetix` Advanced | `Passware Kit` Advanced | `CVSS Scoring` Advanced |
+| `Ghidra (RE)` Very Good | `Snort` Very Good | `Volatility` Advanced | `ISO 27001 Audit` Certified |
 
 </div>
 
 ---
 
-## `[ 05 ]` — **REAL WORLD PROJECTS: ZERO-DAY TO DEPLOY**
+## `[ 05 ]` 🚀 **REAL-WORLD PROJECTS: ZERO-DAY TO DEPLOY**
+
+---
 
 <div align="center">
 
-### `[PROJECT 01]` 🔵 AEGIS-IAM DASHBOARD
+### `PROJECT 01` — AEGIS-IAM DASHBOARD
 #### Cloud Security & Risk Intelligence Platform
 
-[![View Repo](https://img.shields.io/badge/REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Aegis-IAM-Dashboard-Cyber-Security-HUD-)
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Aegis-IAM-Dashboard-Cyber-Security-HUD-)
 
 </div>
 
 ```
-THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
-TECH STACK     : Python | NetworkX | MITRE ATT&CK | AWS JSON | OWASP
-ACHIEVEMENT    : Automated detection of assume-role chaining & SoD conflicts
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
+  TECH STACK     : Python · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
+  KEY RESULT     : Automated detection of assume-role chaining & SoD conflicts
+  COMPLIANCE     : OWASP-compliant data validation + vector-based risk reports
+╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-> **Architected** a Python IAM risk analysis platform that ingests AWS JSON exports, auto-detects over-privileged cloud identities, and maps privilege escalation paths via graph-based detection (NetworkX). Integrated **MITRE ATT&CK** tactic/technique categorisation with a dynamic CLI patch command pipeline and full OWASP security compliance.
+Architected a Python IAM risk analysis platform ingesting AWS JSON exports, auto-detecting over-privileged cloud identities and mapping privilege escalation paths via **graph-based detection (NetworkX)**. Integrated **MITRE ATT&CK** tactic/technique categorisation with a dynamic CLI patch command pipeline and automated, vector-based risk intelligence reporting.
 
 ---
 
 <div align="center">
 
-### `[PROJECT 02]` 🟣 ANDROID MALWARE DETECTION SYSTEM
-#### ML-Powered Mobile Threat Engine
+### `PROJECT 02` — ANDROID MALWARE DETECTION SYSTEM
+#### ML-Powered Mobile Threat Engine — **98.47% F1-Score**
 
-[![View Repo](https://img.shields.io/badge/REPO-Android--Malware--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/android-malware-detection-ml)
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Android--Malware--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/android-malware-detection-ml)
 
 </div>
 
 ```
-THREAT VECTOR  : Android APK Permissions & API Call Static Analysis
-TECH STACK     : Python | Scikit-Learn | XGBoost | Drebin Dataset (15,000+ records)
-ACHIEVEMENT    : 98.47% F1-Score | Near-perfect ROC-AUC | Production ML Pipeline
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Android APK Permissions & API Call Static Analysis
+  TECH STACK     : Python · Scikit-Learn · XGBoost · Drebin (15,000+ records)
+  KEY RESULT     : 98.47% F1-Score · Near-perfect ROC-AUC
+  INNOVATION     : Behaviour-based detection replacing signature scanning
+╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-> **Engineered** enterprise-grade static malware analysis pipeline. Evaluated L1 Regularisation, Chi-Square extraction, and Random Forest feature importance on high-dimensional Drebin data. Trained XGBoost, RF, Logistic Regression & KNN, transitioning from signature-based to **behaviour-based threat detection** at production scale.
+Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisation, Chi-Square extraction and Random Forest feature importance on the Drebin dataset. Trained XGBoost, RF, Logistic Regression & KNN to transition from signature-based to **behaviour-based threat identification** at production scale.
 
 ---
 
 <div align="center">
 
-### `[PROJECT 03]` 🔴 AI-POWERED DDoS DETECTION SYSTEM
-#### NIDS with Deep Learning — 99.99% Accuracy
+### `PROJECT 03` — AI-POWERED DDoS DETECTION SYSTEM
+#### NIDS with Deep Learning — **1.0000 Precision · 99.99% Accuracy**
 
-[![View Repo](https://img.shields.io/badge/REPO-Intelligent--DDoS--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/intelligent-ddos-detection-system)
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Intelligent--DDoS--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/intelligent-ddos-detection-system)
 
 </div>
 
 ```
-THREAT VECTOR  : Volumetric DDoS Network Intrusion Classification
-TECH STACK     : Python | TensorFlow | XGBoost | CIC-DDoS2019 (225,000+ records)
-ACHIEVEMENT    : 1.0000 Precision | 99.99% Accuracy | ZERO false-positive alerts
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Volumetric DDoS Network Intrusion Classification
+  TECH STACK     : Python · TensorFlow · XGBoost · CIC-DDoS2019 (225K+ rows)
+  KEY RESULT     : 1.0000 Precision · 99.99% Accuracy · ZERO false positives
+  MODELS TESTED  : 1D-CNNs · MLPs · XGBoost · Random Forest
+╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-> **Built** an AI-driven Network Intrusion Detection System. Processed CIC-DDoS2019 dataset with robust preprocessing pipelines handling severe class imbalance. Evaluated **1D-CNNs, MLPs, and tree ensemble models** — XGBoost achieved a flawless 1.0000 precision, enabling zero false-positive alerts for security analysts.
+Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing handling severe class imbalance. XGBoost achieved a flawless **1.0000 precision** — zero false-positive alerts for security analysts while maintaining near-perfect recall for all active volumetric attack vectors.
 
 ---
 
 <div align="center">
 
-### `[PROJECT 04]` 🟡 ADAPTIVE VULNERABILITY RISK SCORING
-#### AI-Driven Real-Time Threat Assessment
+### `PROJECT 04` — ADAPTIVE VULNERABILITY RISK SCORING
+#### AI-Driven Real-Time Threat Assessment — Beyond Static CVSS
 
-[![View Repo](https://img.shields.io/badge/REPO-Adaptive--Vuln--Risk--Scoring-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/adaptive-vulnerability-risk-scoring)
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Adaptive--Vuln--Risk--Scoring-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/adaptive-vulnerability-risk-scoring)
 
 </div>
 
 ```
-THREAT VECTOR  : Dynamic CVSS Replacement — Context-Aware Risk Intelligence
-TECH STACK     : Python | Scikit-Learn | XGBoost | Feature Engineering
-ACHIEVEMENT    : Real-time 0-10 risk scores | MSE/RMSE/MAE/R2 validated
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Dynamic CVSS Replacement — Context-Aware Risk Scoring
+  TECH STACK     : Python · Scikit-Learn · XGBoost · Feature Engineering
+  KEY RESULT     : Real-time 0–10 context risk scores · MSE/RMSE/MAE/R2 valid.
+  INNOVATION     : TCP flags · port categories · protocol features as inputs
+╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-> **Designed** an adaptive ML framework that replaces static CVSS metrics with real-time, context-aware scoring using TCP flags, port categories & protocol features. Serialized and evaluated XGBoost, RF, Decision Tree & KNN for enterprise vulnerability prioritisation at scale.
+Designed an adaptive ML framework transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Evaluated XGBoost, RF, Decision Tree & KNN; validated rigorously with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
 
 ---
 
-## `[ 06 ]` — **CERTIFICATIONS: BATTLE RIBBONS**
+## `[ 06 ]` 🏅 **CERTIFICATIONS: BATTLE RIBBONS**
 
 <div align="center">
 
-| 🏅 | Certification | Issuer | Date | Score / ID |
+| 🏅 | Certification | Issuer | Date | Score / Credential |
 |:--:|:---|:---|:---:|:---|
-| 🥇 | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
-| 🥇 | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
-| 🥇 | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
-| 🥇 | **CEH v13** — Certified Ethical Hacker | EC-Council | `2025-12` | `ID: 776964` |
-| 🥇 | **CEH** — Certified Ethical Hacker | EC-Council | `2024-01` | `91.2%` · `ECC5081642397` |
-| 🥇 | **CHFI** — Computer Hacking Forensic Investigator | EC-Council | `2023-12` | `90.7%` · `ECC4925367081` |
-| 🥇 | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | `2026-01` | `ttuf1fci7e` |
-| 🥇 | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
-| 🎖️ | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
-| 🎖️ | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
-| 🎖️ | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
-| 🎖️ | **CCPP** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
-| 🎖️ | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
-| 📄 | **TOEFL iBT** | ETS | `2024-07` | `91/120` |
+| ☠️ | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
+| ☠️ | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
+| ☠️ | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
+| ☠️ | **CEH v13** — Certified Ethical Hacker | EC-Council | `2025-12` | `ID 776964` |
+| ☠️ | **CEH** — Certified Ethical Hacker | EC-Council | `2024-01` | `91.2%` · `ECC5081642397` |
+| ☠️ | **CHFI** — Computer Hacking Forensic Investigator | EC-Council | `2023-12` | `90.7%` · `ECC4925367081` |
+| 🔒 | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | `2026-01` | `ttuf1fci7e` |
+| 🔒 | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
+| 🔴 | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
+| 🔴 | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
+| 🔴 | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
+| 🔴 | **CCPP** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
+| 🔴 | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
+| 📄 | **TOEFL iBT** | ETS | `2024-07` | `91 / 120` |
 
 </div>
 
 ---
 
-## `[ 07 ]` — **FIELD OPERATIONS: EXPERIENCE LOG**
+## `[ 07 ]` 💼 **FIELD OPERATIONS: EXPERIENCE LOG**
 
 ```
-[2025-03 - 2025-09]  IT HARDWARE SUPPORT ENGINEER
-                     NIVA TECHNO TRANSITION, Surat, India
-                     >> Enterprise system installation, config & maintenance
-                     >> Hardware/software/network issue diagnosis & resolution
-                     >> LAN/Wi-Fi & peripheral ecosystem management
-
-[2024-02 - 2025-02]  VULNERABILITY ASSESSMENT & PENETRATION TESTER
-                     SYSAP TECHNOLOGIES, Pune, India (Remote, Part-Time)
-                     >> Full-scope enterprise penetration tests & VA
-                     >> Executive + technical risk report delivery
-                     >> Vulnerability remediation & security hardening
-
-[2023-07 - 2024-01]  VULNERABILITY SCANNING & PENETRATION TESTING INTERN
-                     SYSAP TECHNOLOGIES, Pune, India
-                     >> Security scanning, penetration testing, exploitation
-                     >> Threat intelligence & compliance documentation
-
-[2023-01 - 2023-04]  NETWORK SPECIALIST INTERN
-                     AIRLINK COMMUNICATION PVT. LTD, Surat, India
-                     >> Network troubleshooting, monitoring & configuration
-
-[2022-06 - 2022-07]  NETWORK ENGINEER INTERN
-                     NIVA TECHNO TRANSITION, Surat, India
-                     >> Network infrastructure & structured cabling
+╔════════════════════════════════════════════════════════════════════════╗
+║  TIMELINE                                                              ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  [2025-03 → 2025-09]  IT HARDWARE SUPPORT ENGINEER                    ║
+║                        NIVA TECHNO TRANSITION, Surat, India           ║
+║                        ▸ Enterprise system installation & maintenance  ║
+║                        ▸ Hardware, software & network diagnostics      ║
+║                        ▸ LAN/Wi-Fi & peripheral management            ║
+║                                                                        ║
+║  [2024-02 → 2025-02]  VULNERABILITY ASSESSMENT & PENETRATION TESTER   ║
+║                        SYSAP TECHNOLOGIES, Pune, India (Remote)       ║
+║                        ▸ Full-scope enterprise penetration tests       ║
+║                        ▸ Executive + technical risk report delivery    ║
+║                        ▸ Vulnerability remediation & hardening        ║
+║                                                                        ║
+║  [2023-07 → 2024-01]  VULNERABILITY SCANNING & PEN TEST INTERN        ║
+║                        SYSAP TECHNOLOGIES, Pune, India                ║
+║                        ▸ Security & vulnerability scanning            ║
+║                        ▸ Exploitation, threat intel & compliance docs  ║
+║                                                                        ║
+║  [2023-01 → 2023-04]  NETWORK SPECIALIST INTERN                       ║
+║                        AIRLINK COMMUNICATION PVT. LTD, Surat          ║
+║                        ▸ Network troubleshooting & monitoring          ║
+║                                                                        ║
+║  [2022-06 → 2022-07]  NETWORK ENGINEER INTERN                         ║
+║                        NIVA TECHNO TRANSITION, Surat                  ║
+║                        ▸ Network infrastructure & structured cabling   ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `[ 08 ]` — **MSc MISSIONS: ACADEMIC PROJECTS**
+## `[ 08 ]` 🎓 **MSc MISSIONS: ACADEMIC PROJECTS — BCU**
 
 <details>
-<summary><b>🔴 [CLASSIFIED] Consolidated Pentesting & RCE Assessment — BCU MSc</b></summary>
+<summary><b>🔴 [CLASSIFIED-10] Consolidated Pentesting & RCE Assessment</b></summary>
 <br/>
 
-Conducted **end-to-end penetration testing** across Redis, Openfire, and Gitea environments. Achieved **system-level access** via Redis replication abuse, Openfire admin console exploitation, and Git Hooks weaponization. CVSS scores up to **10.0 (Critical)**.
+Conducted **end-to-end penetration testing** across Redis, Openfire, and Gitea environments. Achieved **system-level access** via Redis replication abuse, Openfire admin console exploitation, and Git Hooks weaponization. CVSS scores up to **10.0 Critical**.
 
-**Tools:** `Nmap` · `Metasploit` · `Redis Exploit` · `Git Hooks` · `Reverse Shells` · `CVSS Scoring`
+`Nmap` · `Metasploit` · `Redis Exploit` · `Git Hooks` · `Reverse Shells` · `CVSS`
 </details>
 
 <details>
-<summary><b>🔵 [CLASSIFIED] Digital Forensic Strategy — Missing Person Case — BCU MSc</b></summary>
+<summary><b>🔵 [CLASSIFIED-10] Digital Forensic Strategy — Missing Person Investigation</b></summary>
 <br/>
 
-Designed an **ISO-aligned forensic investigation plan** for a missing person case covering corporate systems, mobile devices, IoT, cloud platforms & CCTV. Applied ISO 27037/27035/27042/27043/17025, UK GDPR, NPCC & FSR standards with full chain-of-custody management.
+Designed an **ISO-aligned forensic investigation plan** covering corporate systems, mobile devices, IoT, cloud platforms & CCTV. Applied ISO 27037/27035/27042/27043/17025 with full UK GDPR, NPCC & FSR compliance and chain-of-custody management.
 
-**Tools:** `FTK Imager` · `Magnet AXIOM` · `Magnet DVR Examiner` · `MOBILeadit` · `Autopsy` · `Passware Kit`
+`FTK Imager` · `Magnet AXIOM` · `Magnet DVR Examiner` · `MOBILeadit` · `Autopsy` · `Passware Kit`
 </details>
 
 <details>
-<summary><b>🟡 [CLASSIFIED] Strategic Security Audit — Cyberzone AI Ltd. — BCU MSc</b></summary>
+<summary><b>🟡 [CLASSIFIED-10] Strategic Security Audit — Cyberzone AI Ltd.</b></summary>
 <br/>
 
-Led **ISO/IEC 27001:2023 audit** of AI-driven healthcare & fintech systems. Identified critical identity gaps, patching weaknesses, and source code exposure. Proposed FIDO2 MFA, immutable backups, automated patching & Purple Team exercises. Delivered phased mitigation roadmap with full risk scoring.
+Led **ISO/IEC 27001:2023 audit** of AI-driven healthcare & fintech systems. Identified identity gaps, patching weaknesses & source code exposure. Proposed FIDO2 MFA, immutable backups, automated patching & Purple Team exercises. Delivered full risk-scored audit report + phased mitigation roadmap.
 </details>
 
 <details>
-<summary><b>🟣 [CLASSIFIED] Academic Research: AI & Autonomous Pentesting Frameworks — BCU MSc</b></summary>
+<summary><b>🟣 [CLASSIFIED-10] AI & Autonomous Pentesting Frameworks — Research</b></summary>
 <br/>
 
-Systematic literature review evaluating **Deep Reinforcement Learning & LLMs** for autonomous offensive cybersecurity. Synthesised quantitative metrics on Multi-Agent Systems vs single-agent LLMs. Identified the "Sim2Real" gap, hallucination risks, and dual-use ethical concerns. Proposed Neuro-Symbolic AI + HITL architecture for EU AI Act & GDPR compliance.
+Systematic literature review evaluating **Deep Reinforcement Learning & LLMs** for autonomous offensive cybersecurity. Identified the "Sim2Real" transfer gap, algorithmic hallucination risks and dual-use ethical concerns. Formulated a Neuro-Symbolic AI + HITL architecture for EU AI Act & GDPR compliance.
 
-**Skills:** `DRL` · `LLMs` · `Multi-Agent Systems` · `Neuro-Symbolic AI` · `EU AI Act` · `GDPR`
+`DRL` · `LLMs` · `Multi-Agent Systems` · `Neuro-Symbolic AI` · `EU AI Act` · `GDPR`
 </details>
 
 <details>
-<summary><b>🟢 [CLASSIFIED] IT Project Management: Autonomous AI-Driven Pentesting System — BCU MSc</b></summary>
+<summary><b>🟢 [CLASSIFIED-10] IT Project Management: Autonomous AI-Driven Pentesting</b></summary>
 <br/>
 
-Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybersecurity system. Managed 5-phase WBS, sprint execution, capacity planning & automated approvals on Monday.com. Led EU AI Act compliance under crisis resource reallocation with HITL + Neuro-Symbolic safety guardrails.
+Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybersecurity system using Monday.com as the Work OS. Managed a 5-phase WBS, sprint execution, capacity planning & automated approvals. Led EU AI Act compliance deliverables under crisis resource reallocation with HITL + Neuro-Symbolic safety guardrails.
 
-**Tools:** `Monday.com` · `Agile-PRINCE2` · `WBS` · `Risk Management` · `Regulatory Compliance`
+`Monday.com` · `Agile-PRINCE2` · `WBS` · `Risk Management` · `Regulatory Compliance`
 </details>
 
 ---
 
-## `[ 09 ]` — **INTEL BRIEFINGS: JOB SIMULATIONS 2025**
+## `[ 09 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
 
 <div align="center">
 
 | 🏢 Organisation | 🎯 Operation | 🔑 Skills Demonstrated |
 |:---|:---|:---|
-| **Deloitte** | Cyber Job Simulation | Threat Analysis · Incident Reports · Mitigation Strategy |
-| **MasterCard** | Cybersecurity Simulation | Payment Security · Fraud Detection · Risk Assessment |
+| **Deloitte** | Cyber Job Simulation | Threat Analysis · Incident Reports · Mitigation |
+| **MasterCard** | Cybersecurity Job Simulation | Payment Security · Fraud Detection · Risk Response |
 | **Commonwealth Bank** | Intro to Cybersecurity | Risk Management · Access Control · Data Protection |
-| **Telstra** | Cybersecurity Simulation | Network Security · Vulnerability Identification · Reporting |
-| **Datacom** | Cyber Security Operations | SOC Workflow · Log Analysis · Anomaly Detection |
-| **TATA** | Cybersecurity Analyst | System Scanning · Vuln Prioritisation · Recommendations |
-| **AIG** | Shields Up Simulation | Cyber Defence · Attack Scenario Analysis · Safeguards |
+| **Telstra** | Cybersecurity Job Simulation | Network Security · Vulnerability Identification |
+| **Datacom** | Cyber Security Operations | SOC · Log Analysis · Anomaly Detection |
+| **TATA** | Cybersecurity Analyst Simulation | System Scanning · Vuln Prioritisation |
+| **AIG** | Shields Up: Cybersecurity | Cyber Defence · Attack Scenarios · Safeguards |
 
 </div>
 
 ---
 
-## `[ 10 ]` — **EDUCATION: TRAINING GROUND**
+## `[ 10 ]` 🎓 **EDUCATION: TRAINING GROUND**
 
 <div align="center">
 
@@ -335,72 +405,83 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 | **MSc Cyber Security** with Professional Placement | Birmingham City University, UK | Exp. `2027` | — |
 | **BE — Computer Science & Engineering** | SN Patel Institute of Technology (GTU), India | `2024` | **7.86 CGPA** |
 | **Diploma — Computer Engineering** | N.G. Patel Polytechnic College (GTU), India | `2021` | **7.80 CGPA** |
-| **Class 10 — SSC (CBSE)** | Kendriya Vidyalaya No.1, Surat, India | `2017` | — |
+| **Class 10 — SSC (CBSE)** | Kendriya Vidyalaya No.1, Surat | `2017` | — |
 
 </div>
 
 ---
 
-## `[ 11 ]` — **MISSION OBJECTIVES: CAREER GOALS**
+## `[ 11 ]` 🌍 **SYSTEM LANGUAGES**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/English-Native_Bilingual-00ff41?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Hindi-Native_Bilingual-00cc33?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gujarati-Native_Bilingual-009922?style=for-the-badge&labelColor=0a0a0a"/>
+
+</div>
+
+---
+
+## `[ 12 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
 
 ```python
-class MissionBriefing:
-    
-    short_term = [
-        "Master advanced exploitation: OSCP, CISSP certifications",
+#!/usr/bin/env python3
+# CLASSIFICATION: TOP SECRET — CAREER INTELLIGENCE BRIEF
+
+class NisargChasmawala_MissionPlan:
+
+    short_term_objectives = [
+        "Earn OSCP, CISSP — push elite certification stack further",
         "Build AI-augmented security pipelines for enterprise defence",
-        "Deepen hands-on experience in red team operations",
+        "Deepen red team operations experience with real engagements",
     ]
-    
-    mid_term = [
-        "Publish peer-reviewed cybersecurity & AI research",
+
+    mid_term_objectives = [
+        "Publish peer-reviewed research at intersection of AI + Cyber",
         "Lead offensive security teams & mentor the next generation",
-        "Pioneer techniques at the intersection of AI + Cyber",
+        "Pioneer autonomous penetration testing methodologies",
     ]
-    
-    long_term = [
+
+    long_term_objectives = [
         "Become a globally recognised cybersecurity adviser",
-        "Lead development of next-gen security tools & frameworks",
+        "Lead development of next-generation security tools & frameworks",
         "Shape international cyberspace policy & best practices",
     ]
-    
-    ultimate_mission = """
-    To uncover every vulnerability, secure every critical system,
-    and make the digital world a demonstrably safer place to exist.
+
+    ultimate_mission: str = """
+        Uncover every vulnerability. Secure every critical system.
+        Build a demonstrably safer digital world — for everyone.
     """
+
+    def execute(self) -> None:
+        while True:
+            hunt(); learn(); build(); secure(); repeat()
 ```
 
 ---
 
-## `[ 12 ]` — **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
+## `[ 13 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishu2402&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00cc33&area_color=004400&area=true&hide_border=true&custom_title=LIVE+THREAT+ACTIVITY+MONITOR" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishu2402&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00cc33&area_color=003300&area=true&hide_border=true&custom_title=LIVE+THREAT+ACTIVITY+MONITOR" />
 
 </div>
 
 ---
 
-## `[ 13 ]` — **CONTRIBUTION SNAKE** 🐍
+## `[ 14 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
 
+<div align="center">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="box-shadow:0 0 20px #00ff41; border-radius:8px;" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
----
-
-## `[ 14 ]` — **SYSTEM LANGUAGES**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/English-Native_/_Bilingual-00ff41?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Hindi-Native_/_Bilingual-00cc33?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Gujarati-Native_/_Bilingual-009922?style=for-the-badge&labelColor=0d1117"/>
+> **Activate YOUR snake:** Add the `snake.yml` workflow file (included alongside this README) to `.github/workflows/` in your `nishu2402` profile repo, then trigger it once manually from the **Actions tab**. It regenerates every 12 hours.
 
 </div>
 
@@ -408,11 +489,19 @@ class MissionBriefing:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:001a00,80:003300,100:00ff41&height=160&section=footer&text=root%40kali%3A~%23+stay+curious%2C+stay+offensive&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=180&section=footer&text=root%40offensive-sec%3A~%23+stay+curious+--+stay+dangerous&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=52" />
 
 <br/>
 
-**`> SELECT * FROM elite_hackers WHERE name = 'Nisarg Chasmawala' AND status = 'ACTIVE';`**
+```sql
+SELECT * FROM elite_security_engineers
+WHERE name = 'Nisarg Chasmawala'
+  AND certs IN ('CPENT','CEH_Master','CHFI','ISO_27001')
+  AND status = 'ACTIVE'
+  AND mission = 'MAKING_DIGITAL_WORLD_SAFER';
+
+-- 1 row returned. Target identified. ☠
+```
 
 <br/>
 
@@ -424,6 +513,6 @@ class MissionBriefing:
 
 <br/>
 
-*`[ CONNECTION TERMINATED — ALL SYSTEMS SECURED ]`*
+*`[ ALL SYSTEMS SECURED — CONNECTION TERMINATED — ☠ ]`*
 
 </div>
