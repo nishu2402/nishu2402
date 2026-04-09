@@ -424,8 +424,6 @@ class NisargChasmawala_MissionPlan:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> **Activate YOUR snake:** Add the `snake.yml` workflow file (included alongside this README) to `.github/workflows/` in your `nishu2402` profile repo, then trigger it once manually from the **Actions tab**. It regenerates every 12 hours.
-
 </div>
 
 ---
