@@ -508,9 +508,12 @@ WHERE alias     = 'HEAVEN'
 
 -- 1 row returned. Target identified. ☠
 ```
+</div>
 
 <br/>
 
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/github.com%2Fnishu2402-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nishu2402)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/nisarg--chasmawala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-chasmawala)
