@@ -57,7 +57,7 @@
 ║  >> ALIAS     :  HEAVEN                                                  ║
 ║  >> IDENTITY  :  Nisarg Chasmawala                                       ║
 ║  >> ROLE      :  Offensive Security Engineer | Penetration Tester        ║
-║  >> LOCATION  :  Halesowen, Birmingham, England, United Kingdom          ║
+║  >> LOCATION  :  England, United Kingdom                                 ║
 ║  >> EDUCATION :  MSc Cyber Security — Birmingham City University         ║
 ║                  (Expected Graduation: March 2027)                       ║
 ║                                                                          ║
