@@ -413,7 +413,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 10 ]` 💀 **SIDE MISSIONS: HOBBIES & CTF**
+## `[ 10 ]` 💀 **SIDE MISSIONS: HOBBIES**
 
 ```bash
 ┌──(HEAVEN㉿kali-offensive)-[~/hobbies]
