@@ -492,6 +492,7 @@ class NisargChasmawala_MissionPlan:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=180&section=footer&text=root%40offensive-sec%3A~%23+stay+curious+--+stay+dangerous&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=52" />
 
 <br/>
+
 ```sql
 SELECT * FROM elite_security_engineers
 WHERE alias     = 'HEAVEN'
@@ -517,3 +518,4 @@ WHERE alias     = 'HEAVEN'
 *`[ ALL SYSTEMS SECURED — CONNECTION TERMINATED — ☠ ]`*
 
 </div>
+
