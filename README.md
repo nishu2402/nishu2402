@@ -47,12 +47,12 @@
 
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║    ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗                        ║
-║    ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝                        ║
-║    ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗                       ║
-║    ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║                       ║
-║    ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝                       ║
-║    ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                       ║
+║    ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗                         ║
+║    ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝                         ║
+║    ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗                        ║
+║    ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║                        ║
+║    ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝                        ║
+║    ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                         ║
 ║                                                                          ║
 ║  >> ALIAS     :  HEAVEN                                                  ║
 ║  >> IDENTITY  :  Nisarg Chasmawala                                       ║
@@ -62,7 +62,7 @@
 ║                  (Expected Graduation: March 2027)                       ║
 ║                                                                          ║
 ║  >> CERTS     :  CPENT | CEH Master | CHFI | ISO 27001 Lead Auditor      ║
-║                  CEH v13 | EHE (96%) | CRTOM | CTIGA | CCEP | CCPP      ║
+║                  CEH v13 | EHE (96%) | CRTOM | CTIGA | CCEP | CCPP       ║
 ║                  Foundations of Log Analysis | TOEFL iBT 91/120          ║
 ║                                                                          ║
 ║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego              ║
@@ -71,7 +71,7 @@
 ║                                                                          ║
 ║  >> ML WINS   :  DDoS Detection    — 99.99% Accuracy | 1.0000 Precision  ║
 ║                  Malware Engine    — 98.47% F1-Score | Near-Perfect AUC  ║
-║                  CVSS Prediction   — R² = 0.9989     | 337,705 CVEs     ║
+║                  CVSS Prediction   — R² = 0.9989     | 337,705 CVEs      ║
 ║                                                                          ║
 ║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
 ║                  Shape international cyberspace policy.                  ║
@@ -284,33 +284,33 @@ Designed an adaptive ML framework transitioning vulnerability assessments from s
 ║  TIMELINE                                                              ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║                                                                        ║
-║  [2025-03 → 2025-09]  IT HARDWARE SUPPORT ENGINEER                    ║
-║                        NIVA TECHNO TRANSITION, Surat, India           ║
+║  [2025-03 → 2025-09]  IT HARDWARE SUPPORT ENGINEER                     ║
+║                        NIVA TECHNO TRANSITION, Surat, India            ║
 ║                        ▸ Enterprise system installation & maintenance  ║
 ║                        ▸ Hardware, software & network diagnostics      ║
-║                        ▸ LAN/Wi-Fi & peripheral management            ║
+║                        ▸ LAN/Wi-Fi & peripheral management             ║
 ║                        ▸ Regular security checks & offsite support     ║
 ║                                                                        ║
-║  [2024-02 → 2025-02]  VULNERABILITY ASSESSMENT & PENETRATION TESTER   ║
-║                        SYSAP TECHNOLOGIES, Pune, India (Remote)       ║
+║  [2024-02 → 2025-02]  VULNERABILITY ASSESSMENT & PENETRATION TESTER    ║
+║                        SYSAP TECHNOLOGIES, Pune, India (Remote)        ║
 ║                        ▸ Full-scope enterprise penetration tests       ║
 ║                        ▸ Executive + technical risk report delivery    ║
-║                        ▸ Vulnerability remediation & hardening        ║
+║                        ▸ Vulnerability remediation & hardening         ║
 ║                        ▸ Maintained currency with emerging threats     ║
 ║                                                                        ║
-║  [2023-07 → 2024-01]  VULNERABILITY SCANNING & PEN TEST INTERN        ║
-║                        SYSAP TECHNOLOGIES, Pune, India                ║
-║                        ▸ Security & vulnerability scanning            ║
+║  [2023-07 → 2024-01]  VULNERABILITY SCANNING & PEN TEST INTERN         ║
+║                        SYSAP TECHNOLOGIES, Pune, India                 ║
+║                        ▸ Security & vulnerability scanning             ║
 ║                        ▸ Exploitation, threat intel & compliance docs  ║
-║                        ▸ Security research & record keeping           ║
+║                        ▸ Security research & record keeping            ║
 ║                                                                        ║
-║  [2023-01 → 2023-04]  NETWORK SPECIALIST INTERN                       ║
-║                        AIRLINK COMMUNICATION PVT. LTD, Surat          ║
+║  [2023-01 → 2023-04]  NETWORK SPECIALIST INTERN                        ║
+║                        AIRLINK COMMUNICATION PVT. LTD, Surat           ║
 ║                        ▸ Network troubleshooting & monitoring          ║
 ║                        ▸ Network configuration & documentation         ║
 ║                                                                        ║
-║  [2022-06 → 2022-07]  NETWORK ENGINEER INTERN                         ║
-║                        NIVA TECHNO TRANSITION, Surat                  ║
+║  [2022-06 → 2022-07]  NETWORK ENGINEER INTERN                          ║
+║                        NIVA TECHNO TRANSITION, Surat                   ║
 ║                        ▸ Network infrastructure & structured cabling   ║
 ║                        ▸ Documentation, reporting & customer support   ║
 ║                                                                        ║
