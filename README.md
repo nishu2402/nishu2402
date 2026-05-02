@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=300&section=header&text=NISARG%20CHASMAWALA&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%5B%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher%20%5D&descAlignY=60&descSize=14&descColor=00cc33" />
 
 <!-- ─────────── TYPING ANIMATION ─────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9989+%7C+337%2C705+CVE+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9988+%7C+MAE+0.0400+%7C+337%2C705+CVEs;%24+ls+%2Froot%2Fiot+%E2%80%94+IoT+Flow+Prediction+R%C2%B2%3D0.9999+%7C+MAE+0.0010+%7C+117K+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player+%7C+1st+Place+BCU+Hackathon;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,6 +20,15 @@
 </a>&nbsp;
 <a href="https://github.com/nishu2402">
   <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>&nbsp;
+<a href="https://www.kaggle.com/nisargshroff2402">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>&nbsp;
+<a href="https://nishu2402.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=githubpages&logoColor=black"/>
+</a>&nbsp;
+<a href="https://nishu2402.github.io/blog/index.html">
+  <img src="https://img.shields.io/badge/Blog-00cc33?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=nishu2402&label=PROFILE+HITS&color=00ff41&style=for-the-badge"/>
 
@@ -71,7 +80,11 @@
 ║                                                                          ║
 ║  >> ML WINS   :  DDoS Detection    — 99.99% Accuracy | 1.0000 Precision  ║
 ║                  Malware Engine    — 98.47% F1-Score | Near-Perfect AUC  ║
-║                  CVSS Prediction   — R² = 0.9989     | 337,705 CVEs      ║
+║                  CVSS Prediction   — R² = 0.9988     | MAE = 0.0400      ║
+║                  IoT Flow Predict  — R² = 0.9999     | MAE = 0.0010      ║
+║                                                                          ║
+║  >> HACKATHON :  🥇 1st Place — BCU Cyber Security Society Hackathon     ║
+║                  Project: Aegis-IAM Dashboard | STEAMhouse, UK           ║
 ║                                                                          ║
 ║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
 ║                  Shape international cyberspace policy.                  ║
@@ -144,22 +157,22 @@
 <div align="center">
 
 ### `PROJECT 01` — AEGIS-IAM DASHBOARD
-#### Cloud Security & Risk Intelligence Platform
+#### Cloud Security & Risk Intelligence Platform · 🥇 1st Place — BCU Hackathon
 
-[![Repo](https://img.shields.io/badge/OPEN_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Aegis-IAM-Dashboard-Cyber-Security-HUD-)
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Cyber-Security-Aegis-IAM-Dashboard)
 
 </div>
 
 ```
 ╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
   THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
-  TECH STACK     : Python · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
-  KEY RESULT     : Automated detection of assume-role chaining & SoD conflicts
-  COMPLIANCE     : OWASP-compliant data validation + vector-based risk reports
+  TECH STACK     : Python · Flask · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
+  KEY RESULT     : 57 IAM verbs × 10 enterprise tactics · 38 E2E security tests
+  COMPLIANCE     : XSS · CSRF · JSON depth-bomb protections · SoD conflict detection
 ╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-Architected a Python IAM risk analysis platform ingesting AWS JSON exports, auto-detecting over-privileged cloud identities and mapping privilege escalation paths via **graph-based detection (NetworkX)**. Integrated **MITRE ATT&CK** tactic/technique categorisation with a dynamic CLI patch command pipeline and automated, vector-based risk intelligence reporting.
+Architected a stateless IAM risk analysis platform using **Python and Flask**, processing complex AWS JSON exports to instantly detect over-privileged cloud identities and separation-of-duties conflicts. Engineered a **graph-traversal detection engine via NetworkX** to map multi-tiered IAM relationships, automating the discovery and severity-scoring of critical privilege escalation paths. Integrated the **MITRE ATT&CK** framework to map **57 dangerous IAM verbs across 10 enterprise tactics**, visualising exposure through a live heatmap and deterministic posture scoring engine. Hardened the application to pass **38 E2E security tests** (including XSS, CSRF, and JSON depth-bomb protections) with a dynamic CLI patch command pipeline and automated vector-based risk intelligence reporting.
 
 ---
 
@@ -209,8 +222,8 @@ Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing ha
 
 <div align="center">
 
-### `PROJECT 04` — PREDICTIVE CVSS VULNERABILITY SCORING PIPELINE
-#### ML Threat Assessment — **R² = 0.9989 · 337,705 CVE Records**
+### `PROJECT 04` — AI-DRIVEN VULNERABILITY SEVERITY PREDICTOR
+#### ML & Deep Learning Threat Assessment — **R² = 0.9988 · MAE = 0.0400 · 337,705 CVEs**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-NVD--CVSS--Prediction-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/NVD-Cybersecurity-CVSS-Prediction)
 
@@ -218,21 +231,44 @@ Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing ha
 
 ```
 ╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
-  THREAT VECTOR  : Automated NVD Severity Assessment via ML Regression
-  TECH STACK     : Python · Scikit-Learn · Gradient Boosting · NVD Dataset
+  THREAT VECTOR  : Automated NVD Severity Assessment via ML & Deep Learning
+  TECH STACK     : Python · Scikit-Learn · Extra Trees · LSTM · GRU · NVD Dataset
   DATASET        : 337,705 historical CVE records (National Vuln. Database)
-  KEY RESULT     : R² = 0.9989 (Gradient Boosting) · Near-perfect accuracy
-  FEATURE SELECT : Pearson · Mutual Info · Chi-Square · F-Regression · RFE
+  KEY RESULT     : R² = 0.9988 · MAE = 0.0400 · CV R² = 0.9990 (Extra Trees)
+  FEATURE SELECT : Lasso · ElasticNet · Mutual Information · 13 optimal predictors
 ╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-Engineered a supervised ML pipeline to automate NVD severity assessments, predicting CVSS Base Scores across **337,705 historical CVE records**. Processed vulnerability metadata features (attack-type flags, impact, exploitability scores) via 5 feature selection methods isolating 13 optimal predictors. Trained Gradient Boosting, Random Forest, Decision Tree & Linear Regression models — Gradient Boosting achieved near-perfect **R² = 0.9989** validated through MAE, RMSE, R² and 5-fold cross-validation for enterprise patch prioritisation.
+Architected a supervised ML + Deep Learning pipeline to automate NVD severity assessments, predicting CVSS Base Scores (0.0–10.0) across **337,705 historical CVE records**. Deployed a multi-paradigm feature selection pipeline (Lasso, ElasticNet, Mutual Information) to isolate **13 critical predictors** from complex vulnerability metadata. Designed and trained advanced tree-based ensembles (**Extra Trees, Gradient Boosting**) and recurrent neural networks (**LSTM, GRU**) to evaluate non-linear attack metadata. Extra Trees Regressor achieved near-perfect **R² = 0.9988 · MAE = 0.0400** with a highly stable cross-validated **CV R² = 0.9990**, validated through MAE, RMSE, R² and 5-fold cross-validation for enterprise patch prioritisation.
 
 ---
 
 <div align="center">
 
-### `PROJECT 05` — ADAPTIVE VULNERABILITY RISK SCORING
+### `PROJECT 05` — PREDICTIVE IoT NETWORK FLOW ANALYSIS
+#### Applied ML & Telemetry — **R² = 0.9999 · MAE = 0.0010 · 117,000+ Records**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-IoT--Network--Telemetry--Predictor-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/IoT-Network-Telemetry-Predictor)
+
+</div>
+
+```
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : IoT Network Flow Lifetime Forecasting & Anomaly Detection
+  TECH STACK     : Python · TensorFlow · Scikit-Learn · RT-IoT2022 Dataset
+  DATASET        : 117,000+ unique records · 50 raw features → optimal subsets
+  KEY RESULT     : R² = 0.9999 · MAE = 0.0010 (Gradient Boosting, 39 features)
+  MODELS TESTED  : Gradient Boosting · Extra Trees · AdaBoost · Huber · GRU · Transformer
+╚──────────────────────────────────────────────────────────────────────────╝
+```
+
+Engineered a regression-based predictive model using **Python, TensorFlow, and Scikit-Learn** to accurately forecast the continuous wall-clock lifetime of IoT network flows for enhanced network telemetry and anomaly detection. Processed and normalised the **RT-IoT2022 dataset** (117,000+ unique records), designing a comprehensive multi-stage feature selection pipeline (variance filtering, correlation pruning, and Gradient-Boosting importance) to reduce **50 raw features to optimal subsets** while addressing extreme right-skewness via log1p transformations. Developed and evaluated **24 experimental configurations** spanning classical tree ensembles (Gradient Boosting, Extra Trees, AdaBoost), robust linear estimators (Huber), and deep sequence architectures (Gated Recurrent Units and Transformer encoders). Gradient Boosting achieved a near-perfect **R² = 0.9999 · MAE = 0.0010** on a 39-feature baseline, while Extra Trees maintained **R² = 0.9996 even after 87% dimensionality reduction**.
+
+---
+
+<div align="center">
+
+### `PROJECT 06` — ADAPTIVE VULNERABILITY RISK SCORING
 #### AI-Driven Real-Time Threat Assessment — Beyond Static CVSS
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Adaptive--Vuln--Risk--Scoring-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/adaptive-vulnerability-risk-scoring)
@@ -248,7 +284,7 @@ Engineered a supervised ML pipeline to automate NVD severity assessments, predic
 ╚──────────────────────────────────────────────────────────────────────────╝
 ```
 
-Designed an adaptive ML framework transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Processed raw network traffic features (TCP flags, port categories, protocols) via One-Hot Encoding and feature engineering. Evaluated XGBoost, RF, Decision Tree & KNN; validated with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
+Engineered an adaptive ML framework transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Processed raw network traffic features (TCP flags, port categories, protocols) via One-Hot Encoding and feature engineering. Evaluated XGBoost, RF, Decision Tree & KNN; validated with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
 
 ---
 
@@ -366,7 +402,38 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 07 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
+## `[ 07 ]` 🥇 **HACKATHONS: BATTLE VICTORIES**
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  🥇  1ST PLACE — CYBER SECURITY SOCIETY HACKATHON                      ║
+║       Birmingham City University · STEAMhouse, UK                      ║
+║                                                                        ║
+║  PROJECT  :  Aegis-IAM Dashboard                                       ║
+║             Privilege Escalation & Risk Analysis Platform              ║
+║                                                                        ║
+║  ▸ Rapidly prototyped a working MVP of an enterprise-grade IAM         ║
+║    risk analysis platform under strict time constraints.               ║
+║  ▸ Engineered a graph-based detection engine to model access           ║
+║    relationships, automating discovery of complex privilege            ║
+║    escalation chains and "toxic" role combinations.                    ║
+║  ▸ Developed a real-time risk dashboard mapping over-privileged        ║
+║    cloud identities to MITRE ATT&CK, with automated remediation       ║
+║    playbooks and actionable posture scoring.                           ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+[![Repo](https://img.shields.io/badge/HACKATHON_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Cyber-Security-Aegis-IAM-Dashboard)
+
+</div>
+
+---
+
+## `[ 08 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
 
 <div align="center">
 
@@ -384,7 +451,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 08 ]` 🎓 **EDUCATION: TRAINING GROUND**
+## `[ 09 ]` 🎓 **EDUCATION: TRAINING GROUND**
 
 <div align="center">
 
@@ -399,7 +466,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 09 ]` 🌍 **SYSTEM LANGUAGES**
+## `[ 10 ]` 🌍 **SYSTEM LANGUAGES**
 
 <div align="center">
 
@@ -413,7 +480,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 10 ]` 💀 **SIDE MISSIONS: HOBBIES**
+## `[ 11 ]` 💀 **SIDE MISSIONS: HOBBIES**
 
 ```bash
 ┌──(HEAVEN㉿kali-offensive)-[~/hobbies]
@@ -427,7 +494,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ---
 
-## `[ 11 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
+## `[ 12 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
 
 ```python
 #!/usr/bin/env python3
@@ -436,7 +503,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 class NisargChasmawala_MissionPlan:
 
     short_term_objectives = [
-        "Earn OSCP, CISSP — push elite certification stack further",
+        "Earn OSEP, CISSP — push elite certification stack further",
         "Build AI-augmented security pipelines for enterprise defence",
         "Deepen red team operations experience with real engagements",
     ]
@@ -465,7 +532,7 @@ class NisargChasmawala_MissionPlan:
 
 ---
 
-## `[ 12 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
+## `[ 13 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
 
 <div align="center">
 
@@ -475,7 +542,7 @@ class NisargChasmawala_MissionPlan:
 
 ---
 
-## `[ 13 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
+## `[ 14 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
 
 <div align="center">
 
@@ -518,6 +585,10 @@ WHERE alias     = 'HEAVEN'
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/nisarg--chasmawala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-chasmawala)
 &nbsp;
+[![Kaggle](https://img.shields.io/badge/nisargshroff2402-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisargshroff2402)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/nishu2402.github.io-00ff41?style=for-the-badge&logo=githubpages&logoColor=black)](https://nishu2402.github.io)
+&nbsp;
 [![Email](https://img.shields.io/badge/nisargkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisargkc@gmail.com)
 
 <br/>
@@ -525,4 +596,3 @@ WHERE alias     = 'HEAVEN'
 *`[ ALL SYSTEMS SECURED — CONNECTION TERMINATED — ☠ ]`*
 
 </div>
-
