@@ -358,7 +358,7 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 ## `[ 06 ]` 🎓 **MSc MISSIONS: ACADEMIC PROJECTS — BCU**
 
 <details>
-<summary><b>🔴 [CLASSIFIED-10] Consolidated Pentesting & RCE Assessment</b></summary>
+<summary><b>🔴 [CLASSIFIED] Consolidated Pentesting & RCE Assessment</b></summary>
 <br/>
 
 Conducted **end-to-end penetration testing** across Redis, Openfire, and Gitea environments. Achieved **system-level access** via Redis replication abuse, Openfire admin console exploitation, and Git Hooks weaponization. CVSS scores up to **10.0 Critical**.
@@ -367,7 +367,7 @@ Conducted **end-to-end penetration testing** across Redis, Openfire, and Gitea e
 </details>
 
 <details>
-<summary><b>🔵 [CLASSIFIED-10] Digital Forensic Strategy — Missing Person Investigation</b></summary>
+<summary><b>🔵 [CLASSIFIED] Digital Forensic Strategy — Missing Person Investigation</b></summary>
 <br/>
 
 Designed an **ISO-aligned forensic investigation plan** covering corporate systems, mobile devices, IoT, cloud platforms & CCTV. Applied ISO 27037/27035/27042/27043/17025 with full UK GDPR, NPCC & FSR compliance and chain-of-custody management.
@@ -376,14 +376,14 @@ Designed an **ISO-aligned forensic investigation plan** covering corporate syste
 </details>
 
 <details>
-<summary><b>🟡 [CLASSIFIED-10] Strategic Security Audit — Cyberzone AI Ltd.</b></summary>
+<summary><b>🟡 [CLASSIFIED] Strategic Security Audit — Cyberzone AI Ltd.</b></summary>
 <br/>
 
 Led **ISO/IEC 27001:2023 audit** of AI-driven healthcare & fintech systems. Identified identity gaps, patching weaknesses & source code exposure. Evaluated compliance with UK GDPR, Data Protection Act 2018, and US HIPAA. Proposed FIDO2 MFA, immutable backups, automated patching & Purple Team exercises. Delivered full risk-scored audit report + phased mitigation roadmap.
 </details>
 
 <details>
-<summary><b>🟣 [CLASSIFIED-10] AI & Autonomous Pentesting Frameworks — Research</b></summary>
+<summary><b>🟣 [CLASSIFIED] AI & Autonomous Pentesting Frameworks — Research</b></summary>
 <br/>
 
 Systematic literature review evaluating **Deep Reinforcement Learning & LLMs** for autonomous offensive cybersecurity. Synthesized quantitative performance metrics assessing architectural evolution from single-agent LLMs to collaborative Multi-Agent Systems (MAS). Identified the "Sim2Real" transfer gap, algorithmic hallucination risks and dual-use ethical concerns. Formulated a Neuro-Symbolic AI + HITL architecture for EU AI Act & GDPR compliance.
@@ -392,7 +392,7 @@ Systematic literature review evaluating **Deep Reinforcement Learning & LLMs** f
 </details>
 
 <details>
-<summary><b>🟢 [CLASSIFIED-10] IT Project Management: Autonomous AI-Driven Pentesting</b></summary>
+<summary><b>🟢 [CLASSIFIED] IT Project Management: Autonomous AI-Driven Pentesting</b></summary>
 <br/>
 
 Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybersecurity system using Monday.com as the Work OS. Managed a 5-phase WBS, sprint execution, capacity planning & automated approvals. Led EU AI Act compliance deliverables under crisis resource reallocation with HITL + Neuro-Symbolic safety guardrails.
@@ -583,8 +583,9 @@ WHERE alias     = 'HEAVEN'
   
 [![GitHub](https://img.shields.io/badge/github.com%2Fnishu2402-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nishu2402)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/nisarg--chasmawala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-chasmawala)
-&nbsp;
+<a href="https://www.linkedin.com/in/nisarg-chasmawala">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 [![Kaggle](https://img.shields.io/badge/nisargshroff2402-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisargshroff2402)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/nishu2402.github.io-00ff41?style=for-the-badge&logo=githubpages&logoColor=black)](https://nishu2402.github.io)
