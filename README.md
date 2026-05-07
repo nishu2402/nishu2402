@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/nishu2402">
-  <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+  <img width="256" height="256" alt="favicon" src="https://github.com/user-attachments/assets/f2de2237-83a3-41a6-8db6-32f23570e608" />
 </a>&nbsp;
 <a href="https://www.kaggle.com/nisargshroff2402">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
