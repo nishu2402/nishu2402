@@ -6,6 +6,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=300&section=header&text=NISARG%20CHASMAWALA&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%5B%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher%20%5D&descAlignY=60&descSize=14&descColor=00cc33" />
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:08F7FE,50:09FBD3,100:FE53BB" width="100%"/>
+</p>
+
 <!-- ─────────── TYPING ANIMATION ─────────── -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9988+%7C+MAE+0.0400+%7C+337%2C705+CVEs;%24+ls+%2Froot%2Fiot+%E2%80%94+IoT+Flow+Prediction+R%C2%B2%3D0.9999+%7C+MAE+0.0010+%7C+117K+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player+%7C+1st+Place+BCU+Hackathon;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
 
@@ -48,6 +52,10 @@
 ---
 
 ## `[ 01 ]` ☠ **SYSTEM PROFILE: WHOAMI**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 ```bash
 ┌──(HEAVEN㉿kali-offensive)-[~]
@@ -98,6 +106,10 @@
 ---
 
 ## `[ 02 ]` ⚔️ **ATTACK SURFACE: SKILLS MATRIX**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 <div align="center">
 
@@ -150,6 +162,10 @@
 ---
 
 ## `[ 03 ]` 🚀 **REAL-WORLD PROJECTS: ZERO-DAY TO DEPLOY**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 ---
 
@@ -289,6 +305,10 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 
 ## `[ 04 ]` 🏅 **CERTIFICATIONS: BATTLE RIBBONS**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
 
 | 🏅 | Certification | Issuer | Date | Score / Credential |
@@ -313,6 +333,10 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 ---
 
 ## `[ 05 ]` 💼 **FIELD OPERATIONS: EXPERIENCE LOG**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
@@ -355,6 +379,10 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 ---
 
 ## `[ 06 ]` 🎓 **MSc MISSIONS: ACADEMIC PROJECTS — BCU**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 <details>
 <summary><b>🔴 [CLASSIFIED] Consolidated Pentesting & RCE Assessment</b></summary>
@@ -403,6 +431,10 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ## `[ 07 ]` 🥇 **HACKATHONS: BATTLE VICTORIES**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
 
 ```
@@ -434,6 +466,10 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ## `[ 08 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
 
 | 🏢 Organisation | 🎯 Operation | 🔑 Skills Demonstrated |
@@ -452,6 +488,10 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ## `[ 09 ]` 🎓 **EDUCATION: TRAINING GROUND**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
 
 | 🎓 Degree | 🏛️ Institution | 📅 | 📊 |
@@ -467,6 +507,10 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ## `[ 10 ]` 🌍 **SYSTEM LANGUAGES**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/English-Native_Bilingual-00ff41?style=for-the-badge&labelColor=0a0a0a"/>
@@ -481,6 +525,10 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 
 ## `[ 11 ]` 💀 **SIDE MISSIONS: HOBBIES**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 ```bash
 ┌──(HEAVEN㉿kali-offensive)-[~/hobbies]
 └─$ cat interests.txt
@@ -494,6 +542,10 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 ---
 
 ## `[ 12 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 ```python
 #!/usr/bin/env python3
@@ -533,6 +585,10 @@ class NisargChasmawala_MissionPlan:
 
 ## `[ 13 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
+
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishu2402&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00cc33&area_color=003300&area=true&hide_border=true&custom_title=LIVE+THREAT+ACTIVITY+MONITOR" />
@@ -542,6 +598,10 @@ class NisargChasmawala_MissionPlan:
 ---
 
 ## `[ 14 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:CCFF00,50:00FFCC,100:0033FF&animation=twinkling" width="100%"/>
+</p>
 
 <div align="center">
 
