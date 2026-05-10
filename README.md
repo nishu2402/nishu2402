@@ -163,12 +163,12 @@
 </div>
 
 ```
-╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
   TECH STACK     : Python · Flask · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
   KEY RESULT     : 57 IAM verbs × 10 enterprise tactics · 38 E2E security tests
   COMPLIANCE     : XSS · CSRF · JSON depth-bomb protections · SoD conflict detection
-╚──────────────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Architected a stateless IAM risk analysis platform using **Python and Flask**, processing complex AWS JSON exports to instantly detect over-privileged cloud identities and separation-of-duties conflicts. Engineered a **graph-traversal detection engine via NetworkX** to map multi-tiered IAM relationships, automating the discovery and severity-scoring of critical privilege escalation paths. Integrated the **MITRE ATT&CK** framework to map **57 dangerous IAM verbs across 10 enterprise tactics**, visualising exposure through a live heatmap and deterministic posture scoring engine. Hardened the application to pass **38 E2E security tests** (including XSS, CSRF, and JSON depth-bomb protections) with a dynamic CLI patch command pipeline and automated vector-based risk intelligence reporting.
@@ -185,12 +185,12 @@ Architected a stateless IAM risk analysis platform using **Python and Flask**, p
 </div>
 
 ```
-╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Android APK Permissions & API Call Static Analysis
   TECH STACK     : Python · Scikit-Learn · XGBoost · Drebin (15,000+ records)
   KEY RESULT     : 98.47% F1-Score · Near-perfect ROC-AUC
   INNOVATION     : Behaviour-based detection replacing signature scanning
-╚──────────────────────────────────────────────────────────────────────────╝
+╚──────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisation, Chi-Square extraction and Random Forest feature importance on the Drebin dataset. Trained XGBoost, RF, Logistic Regression & KNN to transition from signature-based to **behaviour-based threat identification** at production scale.
@@ -207,12 +207,12 @@ Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisatio
 </div>
 
 ```
-╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Volumetric DDoS Network Intrusion Classification
   TECH STACK     : Python · TensorFlow · XGBoost · CIC-DDoS2019 (225K+ rows)
   KEY RESULT     : 1.0000 Precision · 99.99% Accuracy · ZERO false positives
   MODELS TESTED  : 1D-CNNs · MLPs · XGBoost · Random Forest
-╚──────────────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing handling severe class imbalance. XGBoost achieved a flawless **1.0000 precision** — zero false-positive alerts for security analysts while maintaining near-perfect recall for all active volumetric attack vectors.
@@ -229,13 +229,13 @@ Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing ha
 </div>
 
 ```
-╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Automated NVD Severity Assessment via ML & Deep Learning
   TECH STACK     : Python · Scikit-Learn · Extra Trees · LSTM · GRU · NVD Dataset
   DATASET        : 337,705 historical CVE records (National Vuln. Database)
   KEY RESULT     : R² = 0.9988 · MAE = 0.0400 · CV R² = 0.9990 (Extra Trees)
   FEATURE SELECT : Lasso · ElasticNet · Mutual Information · 13 optimal predictors
-╚──────────────────────────────────────────────────────────────────────────╝
+╚──────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Architected a supervised ML + Deep Learning pipeline to automate NVD severity assessments, predicting CVSS Base Scores (0.0–10.0) across **337,705 historical CVE records**. Deployed a multi-paradigm feature selection pipeline (Lasso, ElasticNet, Mutual Information) to isolate **13 critical predictors** from complex vulnerability metadata. Designed and trained advanced tree-based ensembles (**Extra Trees, Gradient Boosting**) and recurrent neural networks (**LSTM, GRU**) to evaluate non-linear attack metadata. Extra Trees Regressor achieved near-perfect **R² = 0.9988 · MAE = 0.0400** with a highly stable cross-validated **CV R² = 0.9990**, validated through MAE, RMSE, R² and 5-fold cross-validation for enterprise patch prioritisation.
@@ -252,13 +252,13 @@ Architected a supervised ML + Deep Learning pipeline to automate NVD severity as
 </div>
 
 ```
-╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ─────────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : IoT Network Flow Lifetime Forecasting & Anomaly Detection
   TECH STACK     : Python · TensorFlow · Scikit-Learn · RT-IoT2022 Dataset
   DATASET        : 117,000+ unique records · 50 raw features → optimal subsets
   KEY RESULT     : R² = 0.9999 · MAE = 0.0010 (Gradient Boosting, 39 features)
   MODELS TESTED  : Gradient Boosting · Extra Trees · AdaBoost · Huber · GRU · Transformer
-╚──────────────────────────────────────────────────────────────────────────╝
+╚─────────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Engineered a regression-based predictive model using **Python, TensorFlow, and Scikit-Learn** to accurately forecast the continuous wall-clock lifetime of IoT network flows for enhanced network telemetry and anomaly detection. Processed and normalised the **RT-IoT2022 dataset** (117,000+ unique records), designing a comprehensive multi-stage feature selection pipeline (variance filtering, correlation pruning, and Gradient-Boosting importance) to reduce **50 raw features to optimal subsets** while addressing extreme right-skewness via log1p transformations. Developed and evaluated **24 experimental configurations** spanning classical tree ensembles (Gradient Boosting, Extra Trees, AdaBoost), robust linear estimators (Huber), and deep sequence architectures (Gated Recurrent Units and Transformer encoders). Gradient Boosting achieved a near-perfect **R² = 0.9999 · MAE = 0.0010** on a 39-feature baseline, while Extra Trees maintained **R² = 0.9996 even after 87% dimensionality reduction**.
@@ -275,12 +275,12 @@ Engineered a regression-based predictive model using **Python, TensorFlow, and S
 </div>
 
 ```
-╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Dynamic CVSS Replacement — Context-Aware Risk Scoring
   TECH STACK     : Python · Scikit-Learn · XGBoost · Feature Engineering
   KEY RESULT     : Real-time 0–10 context risk scores · MSE/RMSE/MAE/R² val.
   INNOVATION     : TCP flags · port categories · protocol features as inputs
-╚──────────────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Engineered an adaptive ML framework transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Processed raw network traffic features (TCP flags, port categories, protocols) via One-Hot Encoding and feature engineering. Evaluated XGBoost, RF, Decision Tree & KNN; validated with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
@@ -420,7 +420,7 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 ║    relationships, automating discovery of complex privilege            ║
 ║    escalation chains and "toxic" role combinations.                    ║
 ║  ▸ Developed a real-time risk dashboard mapping over-privileged        ║
-║    cloud identities to MITRE ATT&CK, with automated remediation       ║
+║    cloud identities to MITRE ATT&CK, with automated remediation        ║
 ║    playbooks and actionable posture scoring.                           ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
