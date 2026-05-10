@@ -4,7 +4,9 @@
 <!--          ELITE HACKER PROFILE — NISARG CHASMAWALA  //  HEAVEN       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=300&section=header&text=NISARG%20CHASMAWALA&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%5B%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher%20%5D&descAlignY=60&descSize=14&descColor=00cc33" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=300&section=header&text=NISARG%20CHASMAWALA&fontSize=62&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=%5B%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher%20%5D&descAlignY=60&descSize=14&descColor=00cc33" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:08F7FE,50:09FBD3,100:FE53BB" width="100%"/>
