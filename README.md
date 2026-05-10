@@ -18,26 +18,30 @@
 <br/><br/>
 
 <!-- ─────────── SOCIAL BADGES ─────────── -->
-<a href="https://www.linkedin.com/in/nisarg-chasmawala">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:nisargkc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/nishu2402">
-  <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>&nbsp;
-<a href="https://www.kaggle.com/nisargshroff2402">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>&nbsp;
-<a href="https://nishu2402.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=githubpages&logoColor=black"/>
-</a>&nbsp;
-<a href="https://nishu2402.github.io/blog/index.html">
-  <img src="https://img.shields.io/badge/Blog-00cc33?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=nishu2402&label=PROFILE+HITS&color=00ff41&style=for-the-badge"/>
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nisarg-chasmawala">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nisargkc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nishu2402">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/nisargshroff2402">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://nishu2402.github.io">
+    <img src="https://img.shields.io/badge/View_Portfolio-252525?style=for-the-badge"/>
+  </a>
+  <a href="https://nishu2402.github.io/blog/index.html">
+    <img src="https://img.shields.io/badge/Security_Blog-FF4655?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishu2402&label=PROFILE+VIEWS&color=252525&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <!-- ─────────── CERT BADGES ─────────── -->
 <img src="https://img.shields.io/badge/☠_CPENT-Certified-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
@@ -642,16 +646,23 @@ WHERE alias     = 'HEAVEN'
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/github.com%2Fnishu2402-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nishu2402)
-&nbsp;
-<a href="https://www.linkedin.com/in/nisarg-chasmawala">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-[![Kaggle](https://img.shields.io/badge/nisargshroff2402-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisargshroff2402)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/nishu2402.github.io-00ff41?style=for-the-badge&logo=githubpages&logoColor=black)](https://nishu2402.github.io)
-&nbsp;
-[![Email](https://img.shields.io/badge/nisargkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisargkc@gmail.com)
+<p align="center">
+  <a href="https://github.com/nishu2402">
+    <img src="https://img.shields.io/badge/GitHub-nishu2402-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nisarg-chasmawala">
+    <img src="https://img.shields.io/badge/LinkedIn-Nisarg_Chasmawala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/nisargshroff2402">
+    <img src="https://img.shields.io/badge/Kaggle-nisargshroff2402-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://nishu2402.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-nishu2402.github.io-252525?style=for-the-badge"/>
+  </a>
+  <a href="mailto:nisargkc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nisargkc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
