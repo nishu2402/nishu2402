@@ -199,7 +199,51 @@ Architected a stateless IAM risk analysis platform using **Python and Flask**, p
 
 <div align="center">
 
-### `PROJECT 02` — ANDROID MALWARE DETECTION SYSTEM
+### `PROJECT 02` — HEAVEN-GEOINTEL
+#### Open-Source Phone & Email OSINT Intelligence Platform
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-HEAVEN--GeoIntel-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/HEAVEN-GeoIntel)
+
+</div>
+
+```text
+╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : OSINT Target Analysis, Identity Enrichment & Breach Correlation
+  TECH STACK     : Next.js 14 · TypeScript · Tailwind CSS · libphonenumber-js
+  KEY RESULT     : 110 OSINT pivots × 64 Google dorks · 1000+ Breach DBs mapped
+  COMPLIANCE     : API Key Isolation · Token-Bucket Rate Limits · Strict CSP Headers
+╚────────────────────────────────────────────────────────────────────────────────────╝
+```
+
+Architected a production-ready OSINT intelligence platform using **Next.js 14 and TypeScript**, processing phone and email variants to instantly map geographic context, threat intelligence, and identity footprints. Engineered a resilient, **zero-API offline analysis engine via libphonenumber-js** and bundled 400+ US/CA NPA databases to geolocate targets without triggering third-party surveillance thresholds. Integrated automated fan-out parallel queries against **1000+ breach databases (XposedOrNot) and credential hashes**, visualising exposure through a matrix-themed dashboard equipped with **110 tactical OSINT pivot links and 64 pre-built Google Dorks**. Hardened the application's operational security with **token-bucket rate limiting (10 req/min/IP)**, complete server-side API key isolation, and strict anti-tracking security headers to protect investigator integrity.
+
+---
+
+<div align="center">
+
+### `PROJECT 03` — AEGIS-IAM DASHBOARD
+#### Cloud Security & Risk Intelligence Platform · 🥇 1st Place — BCU Hackathon
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Cyber-Security-Aegis-IAM-Dashboard)
+
+</div>
+
+```
+╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
+  TECH STACK     : Python · Flask · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
+  KEY RESULT     : 57 IAM verbs × 10 enterprise tactics · 38 E2E security tests
+  COMPLIANCE     : XSS · CSRF · JSON depth-bomb protections · SoD conflict detection
+╚────────────────────────────────────────────────────────────────────────────────────╝
+```
+
+Architected a stateless IAM risk analysis platform using **Python and Flask**, processing complex AWS JSON exports to instantly detect over-privileged cloud identities and separation-of-duties conflicts. Engineered a **graph-traversal detection engine via NetworkX** to map multi-tiered IAM relationships, automating the discovery and severity-scoring of critical privilege escalation paths. Integrated the **MITRE ATT&CK** framework to map **57 dangerous IAM verbs across 10 enterprise tactics**, visualising exposure through a live heatmap and deterministic posture scoring engine. Hardened the application to pass **38 E2E security tests** (including XSS, CSRF, and JSON depth-bomb protections) with a dynamic CLI patch command pipeline and automated vector-based risk intelligence reporting.
+
+---
+
+<div align="center">
+
+### `PROJECT 04` — ANDROID MALWARE DETECTION SYSTEM
 #### ML-Powered Mobile Threat Engine — **98.47% F1-Score**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Android--Malware--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/android-malware-detection-ml)
@@ -221,7 +265,7 @@ Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisatio
 
 <div align="center">
 
-### `PROJECT 03` — AI-POWERED DDoS DETECTION SYSTEM
+### `PROJECT 05` — AI-POWERED DDoS DETECTION SYSTEM
 #### NIDS with Deep Learning — **1.0000 Precision · 99.99% Accuracy**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Intelligent--DDoS--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/intelligent-ddos-detection-system)
@@ -243,7 +287,7 @@ Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing ha
 
 <div align="center">
 
-### `PROJECT 04` — AI-DRIVEN VULNERABILITY SEVERITY PREDICTOR
+### `PROJECT 06` — AI-DRIVEN VULNERABILITY SEVERITY PREDICTOR
 #### ML & Deep Learning Threat Assessment — **R² = 0.9988 · MAE = 0.0400 · 337,705 CVEs**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-NVD--CVSS--Prediction-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/NVD-Cybersecurity-CVSS-Prediction)
@@ -266,7 +310,7 @@ Architected a supervised ML + Deep Learning pipeline to automate NVD severity as
 
 <div align="center">
 
-### `PROJECT 05` — PREDICTIVE IoT NETWORK FLOW ANALYSIS
+### `PROJECT 07` — PREDICTIVE IoT NETWORK FLOW ANALYSIS
 #### Applied ML & Telemetry — **R² = 0.9999 · MAE = 0.0010 · 117,000+ Records**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-IoT--Network--Telemetry--Predictor-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/IoT-Network-Telemetry-Predictor)
@@ -289,7 +333,7 @@ Engineered a regression-based predictive model using **Python, TensorFlow, and S
 
 <div align="center">
 
-### `PROJECT 06` — ADAPTIVE VULNERABILITY RISK SCORING
+### `PROJECT 08` — ADAPTIVE VULNERABILITY RISK SCORING
 #### AI-Driven Real-Time Threat Assessment — Beyond Static CVSS
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Adaptive--Vuln--Risk--Scoring-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/adaptive-vulnerability-risk-scoring)
