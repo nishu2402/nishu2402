@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=random" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=timeAuto" width="100%"/>
 </p>
 
 <!-- ─────────── TYPING ANIMATION ─────────── -->
