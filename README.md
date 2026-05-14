@@ -177,23 +177,23 @@
 
 <div align="center">
 
-### `PROJECT 01` — AEGIS-IAM DASHBOARD
-#### Cloud Security & Risk Intelligence Platform · 🥇 1st Place — BCU Hackathon
+### `PROJECT 01` — HEAVEN
+#### Autonomous Penetration Testing & Risk Scoring Platform
 
-[![Repo](https://img.shields.io/badge/OPEN_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Cyber-Security-Aegis-IAM-Dashboard)
+[![Repo](https://img.shields.io/badge/OPEN_REPO-HEAVEN-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/HEAVEN-Autonomous-Penetration-Testing)
 
 </div>
 
-```
+```text
 ╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
-  THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
-  TECH STACK     : Python · Flask · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
-  KEY RESULT     : 57 IAM verbs × 10 enterprise tactics · 38 E2E security tests
-  COMPLIANCE     : XSS · CSRF · JSON depth-bomb protections · SoD conflict detection
+  THREAT VECTOR  : Automated Vulnerability Discovery, Exploit Simulation & Risk Scoring
+  TECH STACK     : Python 3.11+ · FastAPI · React · ExtraTreesRegressor · SQLite
+  KEY RESULT     : 29 Live Modules · 112 E2E Tests · CVSS ML Predictor (R²=0.9925)
+  COMPLIANCE     : AES-256-GCM Vault · HMAC Audit Logs · JWT RBAC · OWASP/NIST Mapping
 ╚────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
-Architected a stateless IAM risk analysis platform using **Python and Flask**, processing complex AWS JSON exports to instantly detect over-privileged cloud identities and separation-of-duties conflicts. Engineered a **graph-traversal detection engine via NetworkX** to map multi-tiered IAM relationships, automating the discovery and severity-scoring of critical privilege escalation paths. Integrated the **MITRE ATT&CK** framework to map **57 dangerous IAM verbs across 10 enterprise tactics**, visualising exposure through a live heatmap and deterministic posture scoring engine. Hardened the application to pass **38 E2E security tests** (including XSS, CSRF, and JSON depth-bomb protections) with a dynamic CLI patch command pipeline and automated vector-based risk intelligence reporting.
+Architected a production-grade autonomous penetration testing platform using **Python and FastAPI**, automating complex reconnaissance, vulnerability detection, and false-positive suppression workflows. Engineered a multi-layered risk scoring pipeline featuring an **ExtraTreesRegressor ML model trained on NVD data** to predict CVSS v3.1 base scores (R²=0.9925), augmented by real-time EPSS probabilities and CISA KEV enrichments. Integrated **29 live offensive security modules** mapping directly to the MITRE ATT&CK framework, executing deep evaluations including time-based blind SQLi, SSRF, IDOR, and Active Directory Kerberoasting. Hardened the platform's execution engine with an **AES-256-GCM credential vault and HMAC-signed append-only audit logs**, surfacing verified attack paths via a React-based WebSocket dashboard and automated HTML/PDF compliance reporting.
 
 ---
 
