@@ -363,20 +363,20 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 
 | 🏅 | Certification | Issuer | Date | Score / Credential |
 |:--:|:---|:--|:---:|:---|
-| ☠️ | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
-| ☠️ | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
-| ☠️ | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
-| ☠️ | **CEH v13** — Certified Ethical Hacker | EC-Council | `2025-12` | `ID 776964` |
-| ☠️ | **CEH** — Certified Ethical Hacker | EC-Council | `2024-01` | `91.2%` · `ECC5081642397` |
-| ☠️ | **CHFI** — Computer Hacking Forensic Investigator | EC-Council | `2023-12` | `90.7%` · `ECC4925367081` |
-| 🔒 | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | `2026-01` | `ttuf1fci7e` |
-| 🔒 | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
-| 🔴 | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
-| 🔴 | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
-| 🔴 | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
-| 🔴 | **CCPP** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
-| 🔴 | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
-| 📄 | **TOEFL iBT** | ETS | `2024-07` | `91 / 120` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH v13** — Certified Ethical Hacker | EC-Council | `2025-12` | `ID 776964` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH** — Certified Ethical Hacker | EC-Council | `2024-01` | `91.2%` · `ECC5081642397` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CHFI** — Computer Hacking Forensic Investigator | EC-Council | `2023-12` | `90.7%` · `ECC4925367081` |
+| <img src="https://s3.amazonaws.com/thinkific-import/1003487/lUsavwvSF6CHisDPSezg_Mastermind%20Seal%20LeadAuditor%202048x2028.png" width="20" alt="Mastermind"> | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | `2026-01` | `ttuf1fci7e` |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCPP** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=ets.org&sz=128" width="20" alt="ETS"> | **TOEFL iBT** | ETS | `2024-07` | `91 / 120` |
 
 </div>
 
