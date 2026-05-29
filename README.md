@@ -106,7 +106,7 @@
 ║                                                                          ║
 ║  >> HACKATHON :  🥇 1st Place — BCU Cyber Security Society Hackathon     ║
 ║                  Project: Aegis-IAM Dashboard | STEAMhouse, UK           ║
-║                  🏅 Top 5 Finalist — UniHack 2026 | AquaSense AI          ║
+║                  🏅 Top 5 Finalist — UniHack 2026 | AquaSense AI         ║
 ║                                                                          ║
 ║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
 ║                  Shape international cyberspace policy.                  ║
@@ -194,12 +194,12 @@
 </div>
 
 ```text
-╔─ MISSION BRIEF ───────────────────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Automated Vulnerability Discovery, Exploit Simulation & Risk Scoring
   TECH STACK     : Python · FastAPI · React · ExtraTreesRegressor · PostgreSQL (23-table)
   KEY RESULT     : 31 Live Modules · Async DAG Orchestrator · CVSS ML Predictor (R²=0.9925)
   COMPLIANCE     : AES-256-GCM Vault · HMAC Audit Logs · JWT RBAC · OWASP/NIST Mapping
-╚───────────────────────────────────────────────────────────────────────────────────────╝
+╚──────────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Architected a production-grade autonomous penetration testing platform using **Python and FastAPI**, automating complex reconnaissance, vulnerability detection, and false-positive suppression workflows. Engineered a multi-layered risk scoring pipeline featuring an **ExtraTreesRegressor ML model trained on NVD data** to predict CVSS v3.1 base scores (R²=0.9925), augmented by real-time EPSS probabilities and CISA KEV enrichments. Integrated **31 live offensive security modules** mapping directly to the MITRE ATT&CK framework, Cyber Kill Chain, and OWASP Top 10 standards, executing deep evaluations including time-based blind SQLi, SSRF, IDOR, and Active Directory Kerberoasting. Hardened the platform's execution engine with an **AES-256-GCM credential vault and HMAC-signed append-only audit logs**, surfacing verified attack paths via a React-based WebSocket dashboard and automated HTML/PDF compliance reporting — all powered by an **asynchronous DAG orchestrator** backed by a **23-table PostgreSQL schema** for scalable, resumable security scanning.
