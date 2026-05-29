@@ -13,7 +13,7 @@
 </p>
 
 <!-- ─────────── TYPING ANIMATION ─────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9988+%7C+MAE+0.0400+%7C+337%2C705+CVEs;%24+ls+%2Froot%2Fiot+%E2%80%94+IoT+Flow+Prediction+R%C2%B2%3D0.9999+%7C+MAE+0.0010+%7C+117K+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player+%7C+1st+Place+BCU+Hackathon;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9988+%7C+MAE+0.0400+%7C+337%2C705+CVEs;%24+ls+%2Froot%2Fiot+%E2%80%94+IoT+Flow+Prediction+R%C2%B2%3D0.9999+%7C+MAE+0.0010+%7C+117K+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player+%7C+1st+Place+BCU+Hackathon;%24+cat+%2Fvar%2Flog%2Faquasense+%E2%80%94+AquaSense+AI%3A+96.2%25+Precision+%7C+UniHack+2026+Top+5+Finalist;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -87,6 +87,14 @@
 ║                  CEH v13 | EHE (96%) | CRTOM | CTIGA | CCEP | CCPP       ║
 ║                  Foundations of Log Analysis | TOEFL iBT 91/120          ║
 ║                                                                          ║
+║  >> FLAGSHIP  :  ▶ HEAVEN — Autonomous Pentest & Risk-Scoring Engine     ║
+║                  31 live modules · CVSS ML R²=0.9925 · async DAG core    ║
+║                  MITRE ATT&CK · Cyber Kill Chain · OWASP Top 10 mapped   ║
+║                                                                          ║
+║                  ▶ HEAVEN-GeoIntel — Phone & Email OSINT Recon Rig       ║
+║                  Zero-API offline · 1000+ breach DBs · 110 OSINT pivots  ║
+║                  64 Google Dorks · full-OPSEC identity footprinting      ║
+║                                                                          ║
 ║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego              ║
 ║                  Wireshark · Autopsy · FTK Imager · MITRE ATT&CK         ║
 ║                  TensorFlow · XGBoost · NetworkX · AWS IAM               ║
@@ -98,6 +106,7 @@
 ║                                                                          ║
 ║  >> HACKATHON :  🥇 1st Place — BCU Cyber Security Society Hackathon     ║
 ║                  Project: Aegis-IAM Dashboard | STEAMhouse, UK           ║
+║                  🏅 Top 5 Finalist — UniHack 2026 | AquaSense AI          ║
 ║                                                                          ║
 ║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
 ║                  Shape international cyberspace policy.                  ║
@@ -187,13 +196,13 @@
 ```text
 ╔─ MISSION BRIEF ───────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Automated Vulnerability Discovery, Exploit Simulation & Risk Scoring
-  TECH STACK     : Python 3.11+ · FastAPI · React · ExtraTreesRegressor · SQLite
-  KEY RESULT     : 29 Live Modules · 112 E2E Tests · CVSS ML Predictor (R²=0.9925)
+  TECH STACK     : Python · FastAPI · React · ExtraTreesRegressor · PostgreSQL (23-table)
+  KEY RESULT     : 31 Live Modules · Async DAG Orchestrator · CVSS ML Predictor (R²=0.9925)
   COMPLIANCE     : AES-256-GCM Vault · HMAC Audit Logs · JWT RBAC · OWASP/NIST Mapping
 ╚───────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
-Architected a production-grade autonomous penetration testing platform using **Python and FastAPI**, automating complex reconnaissance, vulnerability detection, and false-positive suppression workflows. Engineered a multi-layered risk scoring pipeline featuring an **ExtraTreesRegressor ML model trained on NVD data** to predict CVSS v3.1 base scores (R²=0.9925), augmented by real-time EPSS probabilities and CISA KEV enrichments. Integrated **29 live offensive security modules** mapping directly to the MITRE ATT&CK framework, executing deep evaluations including time-based blind SQLi, SSRF, IDOR, and Active Directory Kerberoasting. Hardened the platform's execution engine with an **AES-256-GCM credential vault and HMAC-signed append-only audit logs**, surfacing verified attack paths via a React-based WebSocket dashboard and automated HTML/PDF compliance reporting.
+Architected a production-grade autonomous penetration testing platform using **Python and FastAPI**, automating complex reconnaissance, vulnerability detection, and false-positive suppression workflows. Engineered a multi-layered risk scoring pipeline featuring an **ExtraTreesRegressor ML model trained on NVD data** to predict CVSS v3.1 base scores (R²=0.9925), augmented by real-time EPSS probabilities and CISA KEV enrichments. Integrated **31 live offensive security modules** mapping directly to the MITRE ATT&CK framework, Cyber Kill Chain, and OWASP Top 10 standards, executing deep evaluations including time-based blind SQLi, SSRF, IDOR, and Active Directory Kerberoasting. Hardened the platform's execution engine with an **AES-256-GCM credential vault and HMAC-signed append-only audit logs**, surfacing verified attack paths via a React-based WebSocket dashboard and automated HTML/PDF compliance reporting — all powered by an **asynchronous DAG orchestrator** backed by a **23-table PostgreSQL schema** for scalable, resumable security scanning.
 
 ---
 
@@ -215,7 +224,7 @@ Architected a production-grade autonomous penetration testing platform using **P
 ╚────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
-Architected a production-ready OSINT intelligence platform using **Next.js 14 and TypeScript**, processing phone and email variants to instantly map geographic context, threat intelligence, and identity footprints. Engineered a resilient, **zero-API offline analysis engine via libphonenumber-js** and bundled 400+ US/CA NPA databases to geolocate targets without triggering third-party surveillance thresholds. Integrated automated fan-out parallel queries against **1000+ breach databases (XposedOrNot) and credential hashes**, visualising exposure through a matrix-themed dashboard equipped with **110 tactical OSINT pivot links and 64 pre-built Google Dorks**. Hardened the application's operational security with **token-bucket rate limiting (10 req/min/IP)**, complete server-side API key isolation, and strict anti-tracking security headers to protect investigator integrity.
+Architected a production-ready OSINT intelligence platform using **Next.js 14 and TypeScript**, processing phone and email variants to instantly map geographic context, threat intelligence, and identity footprints. Engineered a resilient, **zero-API offline analysis engine via libphonenumber-js** and bundled 400+ US/CA NPA databases to geolocate targets without triggering third-party surveillance thresholds. Integrated automated fan-out parallel queries against **1000+ breach databases (XposedOrNot) and credential hashes**, visualising exposure through a matrix-themed dashboard equipped with **110 tactical OSINT pivot links and 64 pre-built Google Dorks**. Hardened the application's operational security with **token-bucket rate limiting (10 req/min/IP)** and a **24-hour in-memory LRU cache**, complete server-side API key isolation, and strict anti-tracking security headers to protect investigator integrity.
 
 ---
 
@@ -243,7 +252,29 @@ Architected a stateless IAM risk analysis platform using **Python and Flask**, p
 
 <div align="center">
 
-### `PROJECT 04` — ANDROID MALWARE DETECTION SYSTEM
+### `PROJECT 04` — AQUASENSE AI
+#### Proactive Wastewater Compliance & Cryptographic Auditing · 🏅 Top 5 Finalist — UniHack 2026
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-AquaSenseAI-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/AquaSenseAI)
+
+</div>
+
+```text
+╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Wastewater Regulatory Breach Prediction & Tamper-Evident Auditing
+  TECH STACK     : Node.js · React · Authenticated WebSockets · Edge Inference
+  KEY RESULT     : 96.2% Precision · <200ms Statutory Alerts · 40+ E2E Tests Passed
+  COMPLIANCE     : OWASP Top 10 (zero-dependency) · HMAC-SHA256 · Dual SHA-256 Chains
+╚────────────────────────────────────────────────────────────────────────────────────╝
+```
+
+Architected a secure, real-time IoT compliance platform using **Node.js and React**, processing live sensor telemetry via **authenticated WebSockets** to autonomously detect and remediate abnormal wastewater anomalies. Engineered an **edge-inference anomaly detection engine** leveraging four orthogonal mathematical models (**linear regression, Z-score, Mahalanobis distance, and IQR isolation**), predicting regulatory breaches with **96.2% precision**. Automated dynamic **Section 82 compliance reporting** and incident distribution, visualising multi-site telemetry and dispatching immutable, state-aware alerts to statutory bodies in **under 200 milliseconds**. Hardened the infrastructure to natively mitigate the **OWASP Top 10 without external dependencies**, passing **40+ rigorous E2E tests** and enforcing data integrity via **HMAC-SHA256 signing and dual SHA-256 hash chains**.
+
+---
+
+<div align="center">
+
+### `PROJECT 05` — ANDROID MALWARE DETECTION SYSTEM
 #### ML-Powered Mobile Threat Engine — **98.47% F1-Score**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Android--Malware--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/android-malware-detection-ml)
@@ -265,7 +296,7 @@ Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisatio
 
 <div align="center">
 
-### `PROJECT 05` — AI-POWERED DDoS DETECTION SYSTEM
+### `PROJECT 06` — AI-POWERED DDoS DETECTION SYSTEM
 #### NIDS with Deep Learning — **1.0000 Precision · 99.99% Accuracy**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Intelligent--DDoS--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/intelligent-ddos-detection-system)
@@ -287,7 +318,7 @@ Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing ha
 
 <div align="center">
 
-### `PROJECT 06` — AI-DRIVEN VULNERABILITY SEVERITY PREDICTOR
+### `PROJECT 07` — AI-DRIVEN VULNERABILITY SEVERITY PREDICTOR
 #### ML & Deep Learning Threat Assessment — **R² = 0.9988 · MAE = 0.0400 · 337,705 CVEs**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-NVD--CVSS--Prediction-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/NVD-Cybersecurity-CVSS-Prediction)
@@ -310,7 +341,7 @@ Architected a supervised ML + Deep Learning pipeline to automate NVD severity as
 
 <div align="center">
 
-### `PROJECT 07` — PREDICTIVE IoT NETWORK FLOW ANALYSIS
+### `PROJECT 08` — PREDICTIVE IoT NETWORK FLOW ANALYSIS
 #### Applied ML & Telemetry — **R² = 0.9999 · MAE = 0.0010 · 117,000+ Records**
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-IoT--Network--Telemetry--Predictor-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/IoT-Network-Telemetry-Predictor)
@@ -333,8 +364,8 @@ Engineered a regression-based predictive model using **Python, TensorFlow, and S
 
 <div align="center">
 
-### `PROJECT 08` — ADAPTIVE VULNERABILITY RISK SCORING
-#### AI-Driven Real-Time Threat Assessment — Beyond Static CVSS
+### `PROJECT 09` — ADAPTIVE VULNERABILITY RISK SCORING
+#### AI-Driven Real-Time Threat Assessment — Reproducing & Extending Lim & Muhammad (2024)
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-Adaptive--Vuln--Risk--Scoring-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/adaptive-vulnerability-risk-scoring)
 
@@ -349,7 +380,7 @@ Engineered a regression-based predictive model using **Python, TensorFlow, and S
 ╚────────────────────────────────────────────────────────────────────────────╝
 ```
 
-Engineered an adaptive ML framework transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Processed raw network traffic features (TCP flags, port categories, protocols) via One-Hot Encoding and feature engineering. Evaluated XGBoost, RF, Decision Tree & KNN; validated with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
+Engineered an adaptive ML framework — **reproducing and extending the Lim & Muhammad (2024) framework** — transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Processed raw network traffic features (TCP flags, port categories, protocols) via One-Hot Encoding and feature engineering. Evaluated XGBoost, RF, Decision Tree & KNN; validated with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
 
 ---
 
@@ -401,7 +432,7 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 ║                        ▸ Regular security checks & offsite support     ║
 ║                                                                        ║
 ║  [2024-02 → 2025-02]  VULNERABILITY ASSESSMENT & PENETRATION TESTER    ║
-║                        SYSAP TECHNOLOGIES, Pune, India (Remote)        ║
+║                        SYSAP TECHNOLOGIES, Pune, India (Remote · P/T)  ║
 ║                        ▸ Full-scope enterprise penetration tests       ║
 ║                        ▸ Executive + technical risk report delivery    ║
 ║                        ▸ Vulnerability remediation & hardening         ║
@@ -418,7 +449,7 @@ Engineered an adaptive ML framework transitioning vulnerability assessments from
 ║                        ▸ Network troubleshooting & monitoring          ║
 ║                        ▸ Network configuration & documentation         ║
 ║                                                                        ║
-║  [2022-06 → 2022-07]  NETWORK ENGINEER INTERN                          ║
+║  [2022-06 → 2022-07]  NETWORK ENGINEER                                 ║
 ║                        NIVA TECHNO TRANSITION, Surat                   ║
 ║                        ▸ Network infrastructure & structured cabling   ║
 ║                        ▸ Documentation, reporting & customer support   ║
@@ -509,6 +540,31 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 ```
 
 [![Repo](https://img.shields.io/badge/HACKATHON_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Cyber-Security-Aegis-IAM-Dashboard)
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  🏅  TOP 5 FINALIST — UNIHACK 2026                                     ║
+║       Birmingham City University, UK                                   ║
+║                                                                        ║
+║  PROJECT  :  AquaSense AI                                              ║
+║             Proactive Wastewater Compliance &                          ║
+║             Cryptographic Auditing Platform                            ║
+║                                                                        ║
+║  ▸ Co-authored a proactive environmental compliance                    ║
+║    platform shifting from manual, reactive testing to                  ║
+║    an autonomous, predictive compliance model.                         ║
+║  ▸ Edge-inference layer with four stacked analytics                    ║
+║    models (linear-regression, Mahalanobis, Z-score, IQR)               ║
+║    predicting compliance breaches at 96.2% precision.                  ║
+║  ▸ Zero-dependency security: OWASP Top 10 mitigated via                ║
+║    WebSockets, HMAC-SHA256 response-signing, and dual                  ║
+║    SHA-256 hash-chained logs.                                          ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+[![Repo](https://img.shields.io/badge/HACKATHON_REPO-AquaSenseAI-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/AquaSenseAI)
 
 </div>
 
