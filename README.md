@@ -260,12 +260,12 @@ Architected a stateless IAM risk analysis platform using **Python and Flask**, p
 </div>
 
 ```text
-╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ─────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Wastewater Regulatory Breach Prediction & Tamper-Evident Auditing
   TECH STACK     : Node.js · React · Authenticated WebSockets · Edge Inference
   KEY RESULT     : 96.2% Precision · <200ms Statutory Alerts · 40+ E2E Tests Passed
   COMPLIANCE     : OWASP Top 10 (zero-dependency) · HMAC-SHA256 · Dual SHA-256 Chains
-╚────────────────────────────────────────────────────────────────────────────────────╝
+╚─────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Architected a secure, real-time IoT compliance platform using **Node.js and React**, processing live sensor telemetry via **authenticated WebSockets** to autonomously detect and remediate abnormal wastewater anomalies. Engineered an **edge-inference anomaly detection engine** leveraging four orthogonal mathematical models (**linear regression, Z-score, Mahalanobis distance, and IQR isolation**), predicting regulatory breaches with **96.2% precision**. Automated dynamic **Section 82 compliance reporting** and incident distribution, visualising multi-site telemetry and dispatching immutable, state-aware alerts to statutory bodies in **under 200 milliseconds**. Hardened the infrastructure to natively mitigate the **OWASP Top 10 without external dependencies**, passing **40+ rigorous E2E tests** and enforcing data integrity via **HMAC-SHA256 signing and dual SHA-256 hash chains**.
