@@ -71,55 +71,55 @@
 ┌──(HEAVEN㉿kali-offensive)-[~]
 └─$ sudo cat /root/.profile
 
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗                         ║
-║    ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝                         ║
-║    ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗                        ║
-║    ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║                        ║
-║    ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝                        ║
-║    ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                         ║
-║                                                                          ║
-║  >> ALIAS     :  HEAVEN                                                  ║
-║  >> IDENTITY  :  Nisarg Chasmawala                                       ║
-║  >> ROLE      :  Offensive Security Engineer | Penetration Tester        ║
-║  >> LOCATION  :  England, United Kingdom                                 ║
-║  >> EDUCATION :  MSc Cyber Security — Birmingham City University         ║
-║                  (Expected Graduation: March 2027)                       ║
-║                                                                          ║
-║  >> CERTS     :  CPENT | CEH Master | CEH v13 | CHFI | EHE 96%           ║
-║                  ISO 27001 LA | ISO 27701 LA | CCST ×3 | CCNA (Cisco)    ║
-║                  CRTOM | CTIGA | CCEP | CCPC | CLLMSP | CHTAP            ║
-║                  Foundations of Log Analysis | TOEFL iBT 91/120          ║
-║                                                                          ║
-║  >> FLAGSHIP  :  ▶ HEAVEN — Autonomous Pentest & Risk-Scoring Engine     ║
-║                  31 modules · AI attack-chain planner · CVSS ML R²=0.9925║
-║                  MITRE ATT&CK · Cyber Kill Chain · OWASP Top 10 mapped   ║
-║                                                                          ║
-║                  ▶ HEAVEN-GeoIntel — Unified Multi-Identifier OSINT Rig  ║
-║                  Phone · Email · IP · Domain · Username · offline-first  ║
-║                  Link-analysis + case mgmt · info-stealer breach scoring ║
-║                                                                          ║
-║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego              ║
-║                  Wireshark · Autopsy · FTK Imager · MITRE ATT&CK         ║
-║                  TensorFlow · XGBoost · NetworkX · AWS IAM               ║
-║                                                                          ║
-║  >> ML WINS   :  DDoS Detection    — 99.99% Accuracy | 1.0000 Precision  ║
-║                  Malware Engine    — 98.47% F1-Score | Near-Perfect AUC  ║
-║                  CVSS Prediction   — R² = 0.9988     | MAE = 0.0400      ║
-║                  IoT Flow Predict  — R² = 0.9999     | MAE = 0.0010      ║
-║                                                                          ║
-║  >> HACKATHON :  🥇 1st Place — BCU Cyber Security Society Hackathon     ║
-║                  Project: Aegis-IAM Dashboard | STEAMhouse, UK           ║
-║                  🏅 Top 5 Finalist — UniHack 2026 | AquaSense AI         ║
-║                  🥈 Runner-Up — BCU AI Hackathon 2026 | RAG QA          ║
-║                                                                          ║
-║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
-║                  Shape international cyberspace policy.                  ║
-║                  Build a safer digital world — one exploit at a time.    ║
-║                                                                          ║
-║  [STATUS]  ████████████████████████████████  ACTIVE — ALWAYS HUNTING     ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║    ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗                           ║
+║    ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝                           ║
+║    ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗                          ║
+║    ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║                          ║
+║    ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝                          ║
+║    ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                           ║
+║                                                                            ║
+║  >> ALIAS     :  HEAVEN                                                    ║
+║  >> IDENTITY  :  Nisarg Chasmawala                                         ║
+║  >> ROLE      :  Offensive Security Engineer | Penetration Tester          ║
+║  >> LOCATION  :  England, United Kingdom                                   ║
+║  >> EDUCATION :  MSc Cyber Security — Birmingham City University           ║
+║                  (Expected Graduation: March 2027)                         ║
+║                                                                            ║
+║  >> CERTS     :  CPENT | CEH Master | CEH v13 | CHFI | EHE 96%             ║
+║                  ISO 27001 LA | ISO 27701 LA | CCST ×3 | CCNA (Cisco)      ║
+║                  CRTOM | CTIGA | CCEP | CCPC | CLLMSP | CHTAP              ║
+║                  Foundations of Log Analysis | TOEFL iBT 91/120            ║
+║                                                                            ║
+║  >> FLAGSHIP  :  ▶ HEAVEN — Autonomous Pentest & Risk-Scoring Engine       ║
+║                  31 modules · AI attack-chain planner · CVSS ML R²=0.9925  ║
+║                  MITRE ATT&CK · Cyber Kill Chain · OWASP Top 10 mapped     ║
+║                                                                            ║
+║                  ▶ HEAVEN-GeoIntel — Unified Multi-Identifier OSINT Rig    ║
+║                  Phone · Email · IP · Domain · Username · offline-first    ║
+║                  Link-analysis + case mgmt · info-stealer breach scoring   ║
+║                                                                            ║
+║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego                ║
+║                  Wireshark · Autopsy · FTK Imager · MITRE ATT&CK           ║
+║                  TensorFlow · XGBoost · NetworkX · AWS IAM                 ║
+║                                                                            ║
+║  >> ML WINS   :  DDoS Detection    — 99.99% Accuracy | 1.0000 Precision    ║
+║                  Malware Engine    — 98.47% F1-Score | Near-Perfect AUC    ║
+║                  CVSS Prediction   — R² = 0.9988     | MAE = 0.0400        ║
+║                  IoT Flow Predict  — R² = 0.9999     | MAE = 0.0010        ║
+║                                                                            ║
+║  >> HACKATHON :  🥇 1st Place — BCU Cyber Security Society Hackathon       ║
+║                  Project: Aegis-IAM Dashboard | STEAMhouse, UK             ║
+║                  🏅 Top 5 Finalist — UniHack 2026 | AquaSense AI           ║
+║                  🥈 Runner-Up — BCU AI Hackathon 2026 | RAG QA             ║
+║                                                                            ║
+║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.         ║
+║                  Shape international cyberspace policy.                    ║
+║                  Build a safer digital world — one exploit at a time.      ║
+║                                                                            ║
+║  [STATUS]  ████████████████████████████████  ACTIVE — ALWAYS HUNTING       ║
+╚════════════════════════════════════════════════════════════════════════════╝
 
 [HEAVEN@offensive-sec ~]$ _
 ```
@@ -222,12 +222,12 @@ Architected a production-grade autonomous penetration testing platform using **P
 </div>
 
 ```text
-╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Multi-Identifier OSINT — Phone · Email · IP · Domain · Username
   TECH STACK     : Next.js · TypeScript · Offline-First Engine · Containerised CI/CD
   KEY RESULT     : Link-Analysis + Case Mgmt · Info-Stealer Breach Scoring · Threat Intel
   COMPLIANCE     : Zero-Dependency · REST API · Token-Bucket Limits · Multi-Arch Delivery
-╚────────────────────────────────────────────────────────────────────────────────────╝
+╚──────────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Architected a comprehensive, full-stack **unified OSINT intelligence platform** using **Next.js and TypeScript**, unifying deep reconnaissance across diverse identifiers — **phone, email, IP, domain, and usernames** — into a single high-performance workspace. Engineered an **offline-first, zero-dependency intelligence engine** that correlates bundled localised datasets with free-tier open-source intelligence, delivering high-fidelity target metadata without commercial API keys. Developed an **interactive link-analysis visualisation and case-management system** that automatically maps relationships between disparate target identifiers, enabling persistent tracking across long-term investigations. Integrated **automated credential-breach and info-stealer malware analysis**, processing expansive exposure databases to generate quantifiable threat scores and actionable operational intelligence. Designed a **secure, containerised deployment architecture** with robust REST API endpoints, token-bucket rate limiting, and automated CI/CD pipelines for scalable, multi-architecture delivery.
@@ -310,12 +310,12 @@ Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisatio
 </div>
 
 ```
-╔─ MISSION BRIEF ────────────────────────────────────────────────────────────╗
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Volumetric DDoS Network Intrusion Classification
   TECH STACK     : Python · TensorFlow · XGBoost · CIC-DDoS2019 (225K+ rows)
   KEY RESULT     : 1.0000 Precision · 99.99% Accuracy · ZERO false positives
   MODELS TESTED  : 1D-CNNs · MLPs · XGBoost · Random Forest
-╚────────────────────────────────────────────────────────────────────────────╝
+╚──────────────────────────────────────────────────────────────────────────────╝
 ```
 
 Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing handling severe class imbalance. XGBoost achieved a flawless **1.0000 precision** — zero false-positive alerts for security analysts while maintaining near-perfect recall for all active volumetric attack vectors.
