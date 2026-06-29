@@ -13,7 +13,7 @@
 </p>
 
 <!-- ─────────── TYPING ANIMATION ─────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9988+%7C+MAE+0.0400+%7C+337%2C705+CVEs;%24+ls+%2Froot%2Fiot+%E2%80%94+IoT+Flow+Prediction+R%C2%B2%3D0.9999+%7C+MAE+0.0010+%7C+117K+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player+%7C+1st+Place+BCU+Hackathon;%24+cat+%2Fvar%2Flog%2Faquasense+%E2%80%94+AquaSense+AI%3A+96.2%25+Precision+%7C+UniHack+2026+Top+5+Finalist;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9988+%7C+MAE+0.0400+%7C+337%2C705+CVEs;%24+ls+%2Froot%2Fiot+%E2%80%94+IoT+Flow+Prediction+R%C2%B2%3D0.9999+%7C+MAE+0.0010+%7C+117K+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player+%7C+1st+Place+BCU+Hackathon;%24+cat+%2Fvar%2Flog%2Faquasense+%E2%80%94+AquaSense+AI%3A+96.2%25+Precision+%7C+UniHack+2026+Top+5+Finalist;%24+cat+%2Fvar%2Flog%2Frag+%E2%80%94+Runner-Up+BCU+AI+Hackathon+2026+%7C+RAG+100%2F100+Fact-QA+%288B+cap%29;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -52,6 +52,10 @@
 <img src="https://img.shields.io/badge/☠_EHE-96%25-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
 <img src="https://img.shields.io/badge/☠_CRTOM-Red_Team_Leaders-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
 <img src="https://img.shields.io/badge/☠_CTIGA-Red_Team_Leaders-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_ISO_27701-Lead_Auditor-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CLLMSP-LLM_Security-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CCST_×3-Cisco-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CCNA-Trained-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
 
 </div>
 
@@ -83,17 +87,18 @@
 ║  >> EDUCATION :  MSc Cyber Security — Birmingham City University         ║
 ║                  (Expected Graduation: March 2027)                       ║
 ║                                                                          ║
-║  >> CERTS     :  CPENT | CEH Master | CHFI | ISO 27001 Lead Auditor      ║
-║                  CEH v13 | EHE (96%) | CRTOM | CTIGA | CCEP | CCPP       ║
+║  >> CERTS     :  CPENT | CEH Master | CEH v13 | CHFI | EHE 96%           ║
+║                  ISO 27001 LA | ISO 27701 LA | CCST ×3 | CCNA (Cisco)    ║
+║                  CRTOM | CTIGA | CCEP | CCPC | CLLMSP | CHTAP            ║
 ║                  Foundations of Log Analysis | TOEFL iBT 91/120          ║
 ║                                                                          ║
 ║  >> FLAGSHIP  :  ▶ HEAVEN — Autonomous Pentest & Risk-Scoring Engine     ║
-║                  31 live modules · CVSS ML R²=0.9925 · async DAG core    ║
+║                  31 modules · AI attack-chain planner · CVSS ML R²=0.9925║
 ║                  MITRE ATT&CK · Cyber Kill Chain · OWASP Top 10 mapped   ║
 ║                                                                          ║
-║                  ▶ HEAVEN-GeoIntel — Phone & Email OSINT Recon Rig       ║
-║                  Zero-API offline · 1000+ breach DBs · 110 OSINT pivots  ║
-║                  64 Google Dorks · full-OPSEC identity footprinting      ║
+║                  ▶ HEAVEN-GeoIntel — Unified Multi-Identifier OSINT Rig  ║
+║                  Phone · Email · IP · Domain · Username · offline-first  ║
+║                  Link-analysis + case mgmt · info-stealer breach scoring ║
 ║                                                                          ║
 ║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego              ║
 ║                  Wireshark · Autopsy · FTK Imager · MITRE ATT&CK         ║
@@ -107,6 +112,7 @@
 ║  >> HACKATHON :  🥇 1st Place — BCU Cyber Security Society Hackathon     ║
 ║                  Project: Aegis-IAM Dashboard | STEAMhouse, UK           ║
 ║                  🏅 Top 5 Finalist — UniHack 2026 | AquaSense AI         ║
+║                  🥈 Runner-Up — BCU AI Hackathon 2026 | RAG QA          ║
 ║                                                                          ║
 ║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
 ║                  Shape international cyberspace policy.                  ║
@@ -197,19 +203,19 @@
 ╔─ MISSION BRIEF ──────────────────────────────────────────────────────────────────────────╗
   THREAT VECTOR  : Automated Vulnerability Discovery, Exploit Simulation & Risk Scoring
   TECH STACK     : Python · FastAPI · React · ExtraTreesRegressor · PostgreSQL (23-table)
-  KEY RESULT     : 31 Live Modules · Async DAG Orchestrator · CVSS ML Predictor (R²=0.9925)
-  COMPLIANCE     : AES-256-GCM Vault · HMAC Audit Logs · JWT RBAC · OWASP/NIST Mapping
+  KEY RESULT     : 31 Live Modules · AI Attack-Chain Planner · CVSS ML (R²=0.9925)
+  EXPORTS        : MITRE ATT&CK · Lockheed Kill Chain · OWASP Top 10 · SARIF + Burp XML
 ╚──────────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
-Architected a production-grade autonomous penetration testing platform using **Python and FastAPI**, automating complex reconnaissance, vulnerability detection, and false-positive suppression workflows. Engineered a multi-layered risk scoring pipeline featuring an **ExtraTreesRegressor ML model trained on NVD data** to predict CVSS v3.1 base scores (R²=0.9925), augmented by real-time EPSS probabilities and CISA KEV enrichments. Integrated **31 live offensive security modules** mapping directly to the MITRE ATT&CK framework, Cyber Kill Chain, and OWASP Top 10 standards, executing deep evaluations including time-based blind SQLi, SSRF, IDOR, and Active Directory Kerberoasting. Hardened the platform's execution engine with an **AES-256-GCM credential vault and HMAC-signed append-only audit logs**, surfacing verified attack paths via a React-based WebSocket dashboard and automated HTML/PDF compliance reporting — all powered by an **asynchronous DAG orchestrator** backed by a **23-table PostgreSQL schema** for scalable, resumable security scanning.
+Architected a production-grade autonomous penetration testing platform using **Python and FastAPI**, automating complex reconnaissance, vulnerability detection, and false-positive suppression workflows. Engineered a multi-layered risk scoring pipeline featuring an **ExtraTreesRegressor ML model trained on NVD data** to predict CVSS v3.1 base scores (R²=0.9925), augmented by real-time EPSS probabilities and CISA KEV enrichments. Integrated an **autonomous AI attack-chain planner** built on an observe-plan-act loop with cross-provider support and a deterministic heuristic fallback for offline, credential-free execution, exporting actionable intelligence in **SARIF and Burp XML** formats. Integrated **31 live offensive security modules** mapping directly to the MITRE ATT&CK framework, Lockheed Cyber Kill Chain, and OWASP Top 10 standards, executing deep evaluations including time-based blind SQLi, SSRF, IDOR, and Active Directory Kerberoasting. Hardened the platform's execution engine with an **AES-256-GCM credential vault and HMAC-signed append-only audit logs**, surfacing verified attack paths via a React-based WebSocket dashboard and automated HTML/PDF compliance reporting — all powered by an **asynchronous DAG orchestrator** backed by a **23-table PostgreSQL schema** for scalable, resumable security scanning.
 
 ---
 
 <div align="center">
 
 ### `PROJECT 02` — HEAVEN-GEOINTEL
-#### Open-Source Phone & Email OSINT Intelligence Platform
+#### Unified OSINT Intelligence Platform — Multi-Identifier Recon & Case Management
 
 [![Repo](https://img.shields.io/badge/OPEN_REPO-HEAVEN--GeoIntel-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/HEAVEN-GeoIntel)
 
@@ -217,14 +223,14 @@ Architected a production-grade autonomous penetration testing platform using **P
 
 ```text
 ╔─ MISSION BRIEF ────────────────────────────────────────────────────────────────────╗
-  THREAT VECTOR  : OSINT Target Analysis, Identity Enrichment & Breach Correlation
-  TECH STACK     : Next.js 14 · TypeScript · Tailwind CSS · libphonenumber-js
-  KEY RESULT     : 110 OSINT pivots × 64 Google dorks · 1000+ Breach DBs mapped
-  COMPLIANCE     : API Key Isolation · Token-Bucket Rate Limits · Strict CSP Headers
+  THREAT VECTOR  : Multi-Identifier OSINT — Phone · Email · IP · Domain · Username
+  TECH STACK     : Next.js · TypeScript · Offline-First Engine · Containerised CI/CD
+  KEY RESULT     : Link-Analysis + Case Mgmt · Info-Stealer Breach Scoring · Threat Intel
+  COMPLIANCE     : Zero-Dependency · REST API · Token-Bucket Limits · Multi-Arch Delivery
 ╚────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
-Architected a production-ready OSINT intelligence platform using **Next.js 14 and TypeScript**, processing phone and email variants to instantly map geographic context, threat intelligence, and identity footprints. Engineered a resilient, **zero-API offline analysis engine via libphonenumber-js** and bundled 400+ US/CA NPA databases to geolocate targets without triggering third-party surveillance thresholds. Integrated automated fan-out parallel queries against **1000+ breach databases (XposedOrNot) and credential hashes**, visualising exposure through a matrix-themed dashboard equipped with **110 tactical OSINT pivot links and 64 pre-built Google Dorks**. Hardened the application's operational security with **token-bucket rate limiting (10 req/min/IP)** and a **24-hour in-memory LRU cache**, complete server-side API key isolation, and strict anti-tracking security headers to protect investigator integrity.
+Architected a comprehensive, full-stack **unified OSINT intelligence platform** using **Next.js and TypeScript**, unifying deep reconnaissance across diverse identifiers — **phone, email, IP, domain, and usernames** — into a single high-performance workspace. Engineered an **offline-first, zero-dependency intelligence engine** that correlates bundled localised datasets with free-tier open-source intelligence, delivering high-fidelity target metadata without commercial API keys. Developed an **interactive link-analysis visualisation and case-management system** that automatically maps relationships between disparate target identifiers, enabling persistent tracking across long-term investigations. Integrated **automated credential-breach and info-stealer malware analysis**, processing expansive exposure databases to generate quantifiable threat scores and actionable operational intelligence. Designed a **secure, containerised deployment architecture** with robust REST API endpoints, token-bucket rate limiting, and automated CI/CD pipelines for scalable, multi-architecture delivery.
 
 ---
 
@@ -394,6 +400,12 @@ Engineered an adaptive ML framework — **reproducing and extending the Lim & Mu
 
 | 🏅 | Certification | Issuer | Date | Score / Credential |
 |:--:|:---|:--|:---:|:---|
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST Cybersecurity** — Cisco Certified Support Technician | Cisco | `2026-06` | `wETwJ-48cp` |
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST Networking** — Cisco Certified Support Technician | Cisco | `2026-06` | `PrUY-u8wz` |
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST IT Support** — Cisco Certified Support Technician | Cisco | `2026-06` | `hvhp-4w67` |
+| <img src="https://s3.amazonaws.com/thinkific-import/1003487/lUsavwvSF6CHisDPSezg_Mastermind%20Seal%20LeadAuditor%202048x2028.png" width="20" alt="Mastermind"> | **ISO/IEC 27701:2025 Lead Auditor** | Mastermind | `2026-06` | `e0b15gpw6t` |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CLLMSP** — Certified LLM Security Professional | Red Team Leaders | `2026-06` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CHTAP** — Certified Human Trafficking Awareness Professional | Red Team Leaders | `2026-06` | — |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
@@ -405,8 +417,9 @@ Engineered an adaptive ML framework — **reproducing and extending the Lim & Mu
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
-| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCPP** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCPC** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCNA Security** — Trained (Cisco curriculum) | Sysap Technologies | `2023-07` | `Trained` |
 | <img src="https://www.google.com/s2/favicons?domain=ets.org&sz=128" width="20" alt="ETS"> | **TOEFL iBT** | ETS | `2024-07` | `91 / 120` |
 
 </div>
@@ -424,7 +437,7 @@ Engineered an adaptive ML framework — **reproducing and extending the Lim & Mu
 ║  TIMELINE                                                              ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║                                                                        ║
-║  [2025-03 → 2025-09]  IT HARDWARE SUPPORT ENGINEER                     ║
+║  [2025-03 → 2025-09]  IT HARDWARE SUPPORT ENGINEER · FULL-TIME         ║
 ║                        NIVA TECHNO TRANSITION, Surat, India            ║
 ║                        ▸ Enterprise system installation & maintenance  ║
 ║                        ▸ Hardware, software & network diagnostics      ║
@@ -449,7 +462,7 @@ Engineered an adaptive ML framework — **reproducing and extending the Lim & Mu
 ║                        ▸ Network troubleshooting & monitoring          ║
 ║                        ▸ Network configuration & documentation         ║
 ║                                                                        ║
-║  [2022-06 → 2022-07]  NETWORK ENGINEER                                 ║
+║  [2022-06 → 2022-07]  NETWORK ENGINEER INTERN                          ║
 ║                        NIVA TECHNO TRANSITION, Surat                   ║
 ║                        ▸ Network infrastructure & structured cabling   ║
 ║                        ▸ Documentation, reporting & customer support   ║
@@ -565,6 +578,30 @@ Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybe
 ```
 
 [![Repo](https://img.shields.io/badge/HACKATHON_REPO-AquaSenseAI-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/AquaSenseAI)
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  🥈  RUNNER-UP — BCU AI HACKATHON 2026                                 ║
+║       AI @ BCU Day, Birmingham City University, UK                     ║
+║                                                                        ║
+║  PROJECT  :  Retrieval-Augmented Question-Answering                    ║
+║             & Fact-Verification Pipeline (RAG)                         ║
+║                                                                        ║
+║  ▸ Architected a localized RAG pipeline under a strict                 ║
+║    8B-parameter cap — 100% success (100/100 answered,                  ║
+║    zero blanks) on a long-tail fact dataset.                           ║
+║  ▸ Built data-extraction + ranking via MediaWiki API,                  ║
+║    DuckDuckGo fallback, and a bge-reranker-v2-m3 cross-                ║
+║    encoder over ~130-word chunks; local Qwen2.5-7B on macOS.           ║
+║  ▸ Multi-layer verification: noun-coverage disambiguation,             ║
+║    option-shuffled self-consistency (5× @ T=0.7), and                  ║
+║    contradiction checking to kill positional bias + hallucination.     ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+[![Repo](https://img.shields.io/badge/HACKATHON_REPO-BCU__AI__Hackathon-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/humblefool1997/BCU_Hackathon)
 
 </div>
 
@@ -733,7 +770,7 @@ class NisargChasmawala_MissionPlan:
 SELECT * FROM elite_security_engineers
 WHERE alias     = 'HEAVEN'
   AND name      = 'Nisarg Chasmawala'
-  AND certs     IN ('CPENT','CEH_Master','CHFI','ISO_27001','CEH_v13')
+  AND certs     IN ('CPENT','CEH_Master','CHFI','ISO_27001','ISO_27701','CEH_v13','CCST','CLLMSP')
   AND location  = 'Birmingham, England, United Kingdom'
   AND status    = 'ACTIVE'
   AND mission   = 'MAKING_DIGITAL_WORLD_SAFER';
