@@ -400,12 +400,6 @@ Engineered an adaptive ML framework — **reproducing and extending the Lim & Mu
 
 | 🏅 | Certification | Issuer | Date | Score / Credential |
 |:--:|:---|:--|:---:|:---|
-| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST Cybersecurity** — Cisco Certified Support Technician | Cisco | `2026-06` | `wETwJ-48cp` |
-| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST Networking** — Cisco Certified Support Technician | Cisco | `2026-06` | `PrUY-u8wz` |
-| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST IT Support** — Cisco Certified Support Technician | Cisco | `2026-06` | `hvhp-4w67` |
-| <img src="https://s3.amazonaws.com/thinkific-import/1003487/lUsavwvSF6CHisDPSezg_Mastermind%20Seal%20LeadAuditor%202048x2028.png" width="20" alt="Mastermind"> | **ISO/IEC 27701:2025 Lead Auditor** | Mastermind | `2026-06` | `e0b15gpw6t` |
-| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CLLMSP** — Certified LLM Security Professional | Red Team Leaders | `2026-06` | — |
-| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CHTAP** — Certified Human Trafficking Awareness Professional | Red Team Leaders | `2026-06` | — |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
@@ -413,13 +407,19 @@ Engineered an adaptive ML framework — **reproducing and extending the Lim & Mu
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CEH** — Certified Ethical Hacker | EC-Council | `2024-01` | `91.2%` · `ECC5081642397` |
 | <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **CHFI** — Computer Hacking Forensic Investigator | EC-Council | `2023-12` | `90.7%` · `ECC4925367081` |
 | <img src="https://s3.amazonaws.com/thinkific-import/1003487/lUsavwvSF6CHisDPSezg_Mastermind%20Seal%20LeadAuditor%202048x2028.png" width="20" alt="Mastermind"> | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | `2026-01` | `ttuf1fci7e` |
-| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
+| <img src="https://s3.amazonaws.com/thinkific-import/1003487/lUsavwvSF6CHisDPSezg_Mastermind%20Seal%20LeadAuditor%202048x2028.png" width="20" alt="Mastermind"> | **ISO/IEC 27701:2025 Lead Auditor** | Mastermind | `2026-06` | `e0b15gpw6t` |
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST Cybersecurity** — Cisco Certified Support Technician | Cisco | `2026-06` | `wETwJ-48cp` |
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST Networking** — Cisco Certified Support Technician | Cisco | `2026-06` | `PrUY-u8wz` |
+| <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCST IT Support** — Cisco Certified Support Technician | Cisco | `2026-06` | `hvhp-4w67` |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CLLMSP** — Certified LLM Security Professional | Red Team Leaders | `2026-06` | — |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
-| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCPC** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
 | <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
+| <img src="https://www.google.com/s2/favicons?domain=eccouncil.org&sz=128" width="20" alt="EC-Council"> | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CCPC** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
 | <img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" width="20" alt="Cisco"> | **CCNA Security** — Trained (Cisco curriculum) | Sysap Technologies | `2023-07` | `Trained` |
+| <img src="https://www.google.com/s2/favicons?domain=courses.redteamleaders.com&sz=128" width="20" alt="Red Team Leaders"> | **CHTAP** — Certified Human Trafficking Awareness Professional | Red Team Leaders | `2026-06` | — |
 | <img src="https://www.google.com/s2/favicons?domain=ets.org&sz=128" width="20" alt="ETS"> | **TOEFL iBT** | ETS | `2024-07` | `91 / 120` |
 
 </div>
